@@ -915,7 +915,7 @@
                 <div class="featured-content featured-content-team">
                     <div class="ttm-team-position">Senior Dr. at Delmont</div>
                     <div class="featured-title">
-                        <h5><a href="team-details.html">Dr. Metthew Wood</a></h5>
+                        <h5><a href="<?php echo base_url().'Kasumba/Profile'; ?>">Dr. Metthew Wood</a></h5>
                     </div>
                 </div>
             </div><!-- featured-imagebox-team end-->
@@ -926,13 +926,13 @@
                 </div> 
                 <div class="ttm-box-view-overlay">
                     <div class="featured-iconbox ttm-media-link">
-                        <a href="team-details.html"><i class="ti ti-plus"></i></a>
+                        <a href="<?php echo base_url().'Kasumba/Profile'; ?>"><i class="ti ti-plus"></i></a>
                     </div>
                 </div>
                 <div class="featured-content featured-content-team">
                     <div class="ttm-team-position">Cardiologist Specialist</div>
                     <div class="featured-title">
-                        <h5><a href="team-details.html">Dr. Roy Coleman</a></h5>
+                        <h5><a href="<?php echo base_url().'Kasumba/Profile'; ?>">Dr. Roy Coleman</a></h5>
                     </div>
                 </div>
             </div><!-- featured-imagebox-team end-->
@@ -943,13 +943,13 @@
                 </div>
                 <div class="ttm-box-view-overlay">
                     <div class="featured-iconbox ttm-media-link">
-                        <a href="team-details.html"><i class="ti ti-plus"></i></a>
+                        <a href="<?php echo base_url().'Kasumba/Profile'; ?>"><i class="ti ti-plus"></i></a>
                     </div>
                 </div> 
                 <div class="featured-content featured-content-team">
                     <div class="ttm-team-position">Neurology Specialist</div>
                     <div class="featured-title">
-                        <h5><a href="team-details.html">Dr. Andrew Bert</a></h5>
+                        <h5><a href="<?php echo base_url().'Kasumba/Profile'; ?>">Dr. Andrew Bert</a></h5>
                     </div>
                 </div>
             </div><!-- featured-imagebox-team end-->
@@ -960,13 +960,13 @@
                 </div>
                 <div class="ttm-box-view-overlay">
                     <div class="featured-iconbox ttm-media-link">
-                        <a href="team-details.html"><i class="ti ti-plus"></i></a>
+                        <a href="<?php echo base_url().'Kasumba/Profile'; ?>"><i class="ti ti-plus"></i></a>
                     </div>
                 </div>
                 <div class="featured-content featured-content-team">
                     <div class="ttm-team-position">Senior Рathologist</div>
                     <div class="featured-title">
-                        <h5><a href="team-details.html">Dr. Teresa Mayer</a></h5>
+                        <h5><a href="<?php echo base_url().'Kasumba/Profile'; ?>">Dr. Teresa Mayer</a></h5>
                     </div>
                 </div>
             </div><!-- featured-imagebox-team end-->
@@ -977,13 +977,13 @@
                 </div>
                 <div class="ttm-box-view-overlay">
                     <div class="featured-iconbox ttm-media-link">
-                        <a href="team-details.html"><i class="ti ti-plus"></i></a>
+                        <a href="<?php echo base_url().'Kasumba/Profile'; ?>"><i class="ti ti-plus"></i></a>
                     </div>
                 </div>
                 <div class="featured-content featured-content-team">
                     <div class="ttm-team-position">Senior Dr. at Delmont</div>
                     <div class="featured-title">
-                        <h5><a href="team-details.html">Dr. Robert Burton</a></h5>
+                        <h5><a href="<?php echo base_url().'Kasumba/Profile'; ?>">Dr. Robert Burton</a></h5>
                     </div>
                 </div>
             </div><!-- featured-imagebox-team end-->
