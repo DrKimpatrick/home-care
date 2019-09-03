@@ -226,52 +226,8 @@
                                     </div>
                                     <nav id="menu" class="menu">
                                         <ul class="dropdown">
-                                           <li class="active"><a href="index.html">Home</a>
-                                                <ul>
-                                                    <li class="active"><a href="index.html">Homepage 1</a></li>
-                                                    <li><a href="home-2.html">Homepage 2</a></li>
-                                                    <li><a href="home-3.html">Homepage 3</a></li>
-                                                    <li><a href="#">Header Styles</a>
-                                                        <ul>
-                                                            <li class="active"><a href="index.html">Header Classic Info</a></li>
-                                                            <li><a target="_blank" href="header-overlay.html">Header Overlay</a></li>
-                                                            <li><a target="_blank" href="header-infostack.html">Header Infostack</a></li>
-                                                            <li><a target="_blank" href="header-classic.html">Header Classic</a></li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="#">Pages</a>
-                                                <ul>
-                                                    <li><a href="aboutus-1.html">About Us</a></li>
-                                                    <li><a href="aboutus-2.html">About Us 2</a></li>
-                                                    <li><a href="services.html">Services</a></li>
-                                                    <li><a href="contact-us.html">Contact Us</a></li>
-                                                    <li><a href="contact-us-2.html">Contact Us 2</a></li>
-                                                    <li><a href="our-team.html">Our Doctors</a></li>
-                                                    <li><a href="#">Shop</a>
-                                                        <ul>
-                                                            <li><a href="home-shop.html">Home Shop</a></li>
-                                                            <li><a href="shop.html">Default Shop</a></li>
-                                                            <li><a href="product-details.html">Single Product Details</a></li>
-                                                            <li><a href="cart.html">Cart</a></li>
-                                                            <li><a href="checkout.html">Checkout</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a href="#">Features</a>
-                                                        <ul>
-                                                            <li><a href="before-after.html">Before & After</a></li>
-                                                            <li><a href="our-events.html">Our Events</a></li>
-                                                            <li><a href="book-appointment.html">Book Appointment</a></li>
-                                                            <li><a href="team-details.html">Doctor Details</a></li>
-                                                            <li><a href="forums.html">bbPress</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a href="faq.html">FAQs</a></li>
-                                                    <li><a href="error.html">Error Page</a></li>
-                                                    <li><a href="element.html">Elements</a></li>
-                                                </ul>
-                                            </li>
+                                           <li class="active"><a href="<?php echo base_url().'Kasumba';?>">Home</a></li>
+                                            <li><a href="<?php echo base_url().'Kasumba/About';?>">About Us</a></li>
                                             <li><a href="#">Research</a>
                                                 <ul>
                                                     <li><a href="research-style-1.html">Research Style 1</a></li>
