@@ -226,21 +226,10 @@
                                     </div>
                                     <nav id="menu" class="menu">
                                         <ul class="dropdown">
+
                                            <li class="active"><a href="<?php echo base_url().'Nsambya';?>">Home</a></li>
                                             <li><a href="<?php echo base_url().'Nsambya/About';?>">About Us</a></li>
-                                            <li><a href="#">Research</a>
-                                                <ul>
-                                                    <li><a href="research-style-1.html">Research Style 1</a></li>
-                                                    <li><a href="research-style-2.html">Research Style 2</a></li>
-                                                    <li><a href="#">Project Single</a>
-                                                       <ul>
-                                                            <li><a href="single-style-1.html">Style One</a></li>
-                                                            <li><a href="single-style-2.html">Style Two</a></li>
-                                                            <li><a href="single-style-3.html">Style Three</a></li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
-                                            </li>
+                                            <li><a href="<?php echo base_url().'Nsambya/Contact';?>">Contact Us</a></li>
                                            <li><a href="#">Services</a>
                                                 <ul>
                                                     <li><a href="neurology-services.html">Neurology Services</a></li>
