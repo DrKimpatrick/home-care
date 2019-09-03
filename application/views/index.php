@@ -784,7 +784,7 @@
             </div><!-- section-title end -->
         </div>
         <div class="col-lg-3 col-md-12">
-            <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-border ttm-btn-color-white mb-30 mt-45 res-991-mt-0 float-right" href="#">MORE SERVICES</a>
+            <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-border ttm-btn-color-white mb-30 mt-45 res-991-mt-0 float-right" href="<?php echo base_url().'Nsambya/Services' ;?>">MORE SERVICES</a>
         </div>
     </div><!-- row end -->
     <div class="row">
