@@ -188,34 +188,7 @@
                                 </div><!-- site-branding end -->
                                 <!--site-navigation -->
                                 <div id="site-navigation" class="site-navigation">
-                                    <!-- header-icons -->
-                                    <div class="ttm-header-icons ">
-                                        <span class="ttm-header-icon ttm-header-cart-link">
-                                            <a href="#"><i class="fa fa-shopping-cart"></i>
-                                                <span class="number-cart">0</span>
-                                            </a>
-                                        </span>
-                                        <div class="ttm-header-icon ttm-header-search-link">
-                                            <a href="#"><i class="ti ti-search"></i></a>
-                                            <div class="ttm-search-overlay">
-                                                <div class="ttm-search-outer">
-                                                    <div class="ttm-form-title">Hi, How Can We Help You?</div>
-                                                    <form method="get" class="ttm-site-searchform" action="#">
-                                                        <div class="w-search-form-h">
-                                                            <div class="w-search-form-row">
-                                                                <div class="w-search-input">
-                                                                    <input type="search" class="field searchform-s" name="s" placeholder="Type Word Then Enter...">
-                                                                    <button type="submit">
-                                                                        <i class="ti ti-search"></i>
-                                                                    </button>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div><!-- header-icons end -->
+    
                                     <div class="ttm-menu-toggle">
                                         <input type="checkbox" id="menu-toggle-form" />
                                         <label for="menu-toggle-form" class="ttm-menu-toggle-block">
@@ -238,14 +211,6 @@
                                                     <li><a href="eye-care-services.html">Eye Care Services</a></li>
                                                     <li><a href="dental-services.html">Dental Services</a></li>
                                                     <li><a href="orthopaedics-services.html">Orthopaedics Services</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="#">Blog</a>
-                                                <ul>
-                                                    <li><a href="blog.html">Blog Classic</a></li>
-                                                    <li><a href="blog-left-image.html">Blog Left Image</a></li>
-                                                    <li><a href="blog-grid-view.html">Blog Grid View</a></li>
-                                                    <li><a href="single-blog.html">Blog Single View</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
