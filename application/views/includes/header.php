@@ -183,7 +183,7 @@
                                 <!-- site-branding -->
                                 <div class="site-branding">
                                     <a class="home-link" href="index.html" title="Delmont" rel="home">
-                                        <img id="logo-img" class="img-center" src="images/logo-img.png" alt="logo-img">
+                                        <img id="logo-img" class="img-center" src="<?php echo base_url().'images/logo-img.png';?>" alt="logo-img">
                                     </a>
                                 </div><!-- site-branding end -->
                                 <!--site-navigation -->
@@ -226,8 +226,8 @@
                                     </div>
                                     <nav id="menu" class="menu">
                                         <ul class="dropdown">
-                                           <li class="active"><a href="<?php echo base_url().'Kasumba';?>">Home</a></li>
-                                            <li><a href="<?php echo base_url().'Kasumba/About';?>">About Us</a></li>
+                                           <li class="active"><a href="<?php echo base_url().'Nsambya';?>">Home</a></li>
+                                            <li><a href="<?php echo base_url().'Nsambya/About';?>">About Us</a></li>
                                             <li><a href="#">Research</a>
                                                 <ul>
                                                     <li><a href="research-style-1.html">Research Style 1</a></li>
