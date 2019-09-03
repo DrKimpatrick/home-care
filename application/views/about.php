@@ -42,7 +42,7 @@
                             <div class="ttm-col-wrapper-bg-layer ttm-bg-layer ttm-bgcolor-grey"></div>
                             <div class="layer-content">
                                 <div class="ttm_single_image-wrapper mr_240 res-1199-mr-0">
-                                    <img class="img-fluid" src="<?php echo base_url().'images/single-img-four.png';?>" alt="">
+                                    <img class="img-fluid" src="<?php echo  base_url().'images/single-img-four.png';?>" alt="">
                                 </div><!-- ttm_single_image-wrapper end -->
                             </div>
                         </div>
@@ -70,7 +70,7 @@
                                                 <div class="row">
                                                     <div class="col-sm-3">
                                                         <div class="toggle-figure res-991-mb-15">
-                                                            <img class="img-fluid" src="<?php echo base_url().'images/portfolio/post-one-1200x800.jpg';?>" alt="image">
+                                                            <img class="img-fluid" src="<?php echo  base_url().'images/portfolio/post-one-1200x800.jpg';?>" alt="image">
                                                         </div>
                                                     </div>
                                                     <div class="col-sm-9">
@@ -86,7 +86,7 @@
                                                 <div class="row">
                                                     <div class="col-sm-3">
                                                         <div class="toggle-figure res-991-mb-15">
-                                                            <img class="img-fluid" src="<?php echo base_url().'images/portfolio/post-two-1200x800.jpg';?>" alt="image">
+                                                            <img class="img-fluid" src="<?php echo  base_url().'images/portfolio/post-two-1200x800.jpg';?>" alt="image">
                                                         </div>
                                                     </div>
                                                     <div class="col-sm-9">
@@ -102,7 +102,7 @@
                                                 <div class="row">
                                                     <div class="col-sm-3">
                                                         <div class="toggle-figure res-991-mb-15">
-                                                            <img class="img-fluid" src="images/portfolio/post-one-1200x800.jpg" alt="image">
+                                                            <img class="img-fluid" src="<?php echo  base_url().'images/portfolio/post-one-1200x800.jpg';?>" alt="image">
                                                         </div>
                                                     </div>
                                                     <div class="col-sm-9">
@@ -230,7 +230,7 @@
                         <!-- featured-imagebox-team -->
                         <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
                             <div class="featured-thumbnail">
-                                <img class="img-fluid" src="images/team-member/team-img01.jpg" alt="image"> 
+                                <img class="img-fluid" src="<?php echo base_url().'images/team-member/team-img01.jpg';?>" alt="image"> 
                             </div> 
                             <div class="ttm-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
@@ -247,7 +247,7 @@
                         <!-- featured-imagebox-team -->
                         <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
                             <div class="featured-thumbnail">
-                                <img class="img-fluid" src="images/team-member/team-img02.jpg" alt="image">
+                                <img class="img-fluid" src="<?php echo base_url().'images/team-member/team-img02.jpg';?>" alt="image">
                             </div> 
                             <div class="ttm-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
@@ -264,7 +264,7 @@
                         <!-- featured-imagebox-team -->
                         <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
                             <div class="featured-thumbnail">
-                                <img class="img-fluid" src="images/team-member/team-img03.jpg" alt="image"> 
+                                <img class="img-fluid" src="<?php echo base_url().'images/team-member/team-img03.jpg';?>" alt="image"> 
                             </div>
                             <div class="ttm-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
@@ -281,7 +281,7 @@
                         <!-- featured-imagebox-team -->
                         <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
                             <div class="featured-thumbnail">
-                                <img class="img-fluid" src="images/team-member/team-img04.jpg" alt="image"> 
+                                <img class="img-fluid" src="<?php echo base_url().'images/team-member/team-img04.jpg';?>" alt="image"> 
                             </div>
                             <div class="ttm-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
@@ -298,7 +298,7 @@
                         <!-- featured-imagebox-team -->
                         <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
                             <div class="featured-thumbnail">
-                                <img class="img-fluid" src="images/team-member/team-img05.jpg" alt="image"> 
+                                <img class="img-fluid" src="<?php echo base_url().'images/team-member/team-img05.jpg';?>" alt="image"> 
                             </div>
                             <div class="ttm-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
@@ -352,7 +352,7 @@
                                         <div class="testimonials ttm-testimonial-box-view-style1">
                                             <div class="testimonial-avatar">
                                                 <div class="testimonial-img">
-                                                    <img class="img-fluid" src="images/testimonial/01.jpg" alt="testimonial-img">
+                                                    <img class="img-fluid" src="<?php echo base_url().'images/testimonial/01.jpg';?>" alt="testimonial-img">
                                                 </div>
                                                  <div class="testimonial-caption">
                                                     <h5>RAshley Foster</h5>
@@ -376,7 +376,7 @@
                                         <div class="testimonials ttm-testimonial-box-view-style1"> 
                                             <div class="testimonial-avatar">
                                                 <div class="testimonial-img">
-                                                    <img class="img-fluid" src="images/testimonial/02.jpg" alt="testimonial-img">
+                                                    <img class="img-fluid" src="<?php echo base_url().'images/testimonial/02.jpg';?>" alt="testimonial-img">
                                                 </div>
                                                 <div class="testimonial-caption">
                                                     <h5>Alan Sears</h5>
@@ -400,7 +400,7 @@
                                         <div class="testimonials ttm-testimonial-box-view-style1"> 
                                             <div class="testimonial-avatar">
                                                 <div class="testimonial-img">
-                                                    <img class="img-fluid" src="images/testimonial/03.jpg" alt="testimonial-img">
+                                                    <img class="img-fluid" src="<?php echo base_url().'images/testimonial/03.jpg';?>" alt="testimonial-img">
                                                 </div>
                                                 <div class="testimonial-caption">
                                                     <h5>Raymon Myers</h5>
@@ -441,35 +441,35 @@
                             <div class="client-box ttm-box-view-logo">
                                 <div class="ttm-client-logo-tooltip" data-tooltip="client-01">
                                     <div class="client-thumbnail">
-                                        <img src="images/client/client-01.png" alt="image">
+                                        <img src="<?php echo  base_url().'images/client/client-01.png';?>" alt="image">
                                     </div>
                                 </div>
                             </div>
                             <div class="client-box ttm-box-view-logo">
                                 <div class="ttm-client-logo-tooltip" data-tooltip="client-02">
                                     <div class="client-thumbnail">
-                                        <img src="images/client/client-02.png" alt="image">
+                                        <img src="<?php echo  base_url().'images/client/client-02.png';?>" alt="image">
                                     </div>
                                 </div>
                             </div>
                             <div class="client-box ttm-box-view-logo">
                                 <div class="ttm-client-logo-tooltip" data-tooltip="client-03">
                                     <div class="client-thumbnail">
-                                        <img src="images/client/client-03.png" alt="image">
+                                        <img src="<?php echo  base_url().'images/client/client-03.png';?>" alt="image">
                                     </div>
                                 </div>
                             </div>
                             <div class="client-box ttm-box-view-logo">
                                 <div class="ttm-client-logo-tooltip" data-tooltip="client-01">
                                     <div class="client-thumbnail">
-                                        <img src="images/client/client-01.png" alt="image">
+                                        <img src="<?php echo  base_url().'images/client/client-01.png';?>" alt="image">
                                     </div>
                                 </div>
                             </div>
                             <div class="client-box ttm-box-view-logo">
                                 <div class="ttm-client-logo-tooltip" data-tooltip="client-02">
                                     <div class="client-thumbnail">
-                                        <img src="images/client/client-02.png" alt="image">
+                                        <img src="<?php echo  base_url().'images/client/client-02.png';?>" alt="image">
                                     </div>
                                 </div>
                             </div>
@@ -490,192 +490,4 @@
 
     </div><!--site-main end-->
 
-
-    <!--footer start-->
-    <footer class="footer widget-footer clearfix">
-        <div class="first-footer ttm-bgcolor-skincolor">
-            <div class="container">
-                <div class="row">
-                    <div class="widget-area col-xs-12 col-sm-12 col-md-6 col-lg-4">
-                        <aside class="widget widget-text">
-                            <!--featured-icon-box-->
-                            <div class="featured-icon-box iconalign-before-heading">
-                                <div class="featured-icon">
-                                    <div class="ttm-icon ttm-icon_element-border ttm-icon_element-color-white ttm-icon_element-size-sm ttm-icon_element-style-square">
-                                        <i class="fa fa-phone"></i>
-                                    </div>
-                                </div>
-                                <div class="featured-title">
-                                    <h5>+123 456 78910 / 11</h5>
-                                    <h4>Have a question? call us now</h4>
-                                </div>
-                            </div><!-- featured-icon-box end-->
-                        </aside>
-                    </div>
-                    <div class="widget-area col-xs-12 col-sm-12 col-md-6 col-lg-4">
-                        <aside class="widget widget-text">
-                            <!--featured-icon-box-->
-                            <div class="featured-icon-box iconalign-before-heading">
-                                <div class="featured-icon">
-                                    <div class="ttm-icon ttm-icon_element-border ttm-icon_element-color-white ttm-icon_element-size-sm ttm-icon_element-style-square">
-                                        <i class="fa fa-envelope-o"></i>
-                                    </div>
-                                </div>
-                                <div class="featured-title">
-                                    <h5>info@domainname.com</h5>
-                                    <h4>Need support? Drop us an email</h4>
-                                </div>
-                            </div><!-- featured-icon-box end-->
-                        </aside>
-                    </div>
-                    <div class="widget-area col-xs-12 col-sm-12 col-md-6 col-lg-4">
-                        <aside class="widget widget-text">
-                            <!--featured-icon-box-->
-                            <div class="featured-icon-box iconalign-before-heading">
-                                <div class="featured-icon">
-                                    <div class="ttm-icon ttm-icon_element-border ttm-icon_element-color-white ttm-icon_element-size-sm ttm-icon_element-style-square">
-                                        <i class="fa fa-clock-o"></i>
-                                    </div>
-                                </div>
-                                <div class="featured-title">
-                                    <h5>Mon – Sat 07:00 – 21:00</h5>
-                                    <h4>We are open on</h4>
-                                </div>
-                            </div><!-- featured-icon-box end-->
-                        </aside>
-                    </div>
-                </div>
-            </div>
-        </div>
-         <div class="second-footer ttm-textcolor-white">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
-                        <div class="widget widget_text clearfix">
-                            <h3 class="widget-title">About Delmont</h3>
-                            <div class="textwidget widget-text">
-                                Our Clinic has grown to provide a world class facility for the clinic advanced restorative dentistry.
-                                <br><br>We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience.
-                                <br><br>
-                                <div class="social-icons social-hover">
-                                    <ul class="list-inline">
-                                        <li class="social-facebook"><a class="tooltip-top" target="_blank" href="#" data-tooltip="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                        <li class="social-twitter"><a class="tooltip-top" target="_blank" href="#" data-tooltip="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                        <li class="social-gplus"><a class=" tooltip-top" target="_blank" href="#" data-tooltip="Google+"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                                        <li class="social-linkedin"><a class=" tooltip-top" target="_blank" href="" data-tooltip="LinkedIn"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
-                        <div class="widget widget_nav_menu clearfix">
-                           <h3 class="widget-title">Quick Links</h3>
-                            <ul id="menu-footer-quick-links">
-                                <li><a href="index.html">Make Appointments</a></li>
-                                <li><a href="services-1.html">Before & After</a></li>
-                                <li><a href="about-1.html">Customer Treatments</a></li>
-                                <li><a href="single-style-1.html">Our Doctors Team</a></li>
-                                <li><a href="blog.html">Departments Services</a></li>
-                                <li><a href="our-team.html">About our Clinic</a></li>
-                                <li><a href="faq.html">Contact Us</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
-                        <div class="widget style2 widget-out-link clearfix">
-                           <h3 class="widget-title">Latest News</h3>
-                            <ul class="widget-post ttm-recent-post-list">
-                                <li>
-                                    <a href="single-blog.html"><img src="images/blog/01.jpg" alt="post-img"></a>
-                                    <span class="post-date">April 1, 2019</span>
-                                    <a href="single-blog.html">How much aspirin to take for stroke</a>
-                                </li>
-                                <li>
-                                    <a href="single-blog.html"><img src="images/blog/02.jpg" alt="post-img"></a>
-                                    <span class="post-date">April 1, 2019</span>
-                                    <a href="single-blog.html">Implant Surgical equipment technology</a>
-                                </li>
-                                <li>
-                                    <a href="single-blog.html"><img src="images/blog/03.jpg" alt="post-img"></a>
-                                    <span class="post-date">April 05, 2019</span>
-                                    <a href="single-blog.html">The Benefits of Middle-Age Fitness</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
-                        <div class="widget widget_nav_menu menu-footer-services-menu clearfix">
-                            <h3 class="widget-title">Our Services</h3>
-                            <ul id="menu-footer-services-menu" class="menu">
-                                <li><a href="#">Surgery</a></li>
-                                <li><a href="#">Psychological</a></li>
-                                <li><a href="#">Cardiology</a></li>
-                                <li><a href="#">Orthopedics</a></li>
-                                <li><a href="#">Pediatric</a></li>
-                                <li><a href="#">Oncology</a></li>
-                                <li><a href="#">Anesthesiology</a></li>
-                                <li><a href="#">Dermatology</a></li>
-                            </ul>
-                        </div>
-                        <div class="widget widget-text clearfix">
-                           <h3 class="widget-title">Newsletter</h3>
-                            <form id="subscribe-form" method="post" action="#" data-mailchimp="true">
-                                <div class="ttm_subscribe_form">
-                                    <input type="email" name="EMAIL" placeholder="Enter Your Email" required="">
-                                    <button class="btn" type="submit"> <i class="fa fa-envelope-o"></i> </button>
-                                </div>
-                                <div class="subscribe-response"></div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="bottom-footer-text ttm-textcolor-white">
-            <div class="container">
-                <div class="row copyright">
-                    <div class="col-md-12">
-                        <span>Copyright © 2019 Delmont Theme by <a href="https://themetechmount.com/">ThemetechMount</a></span>
-                    </div>
-                    <div class="col-md-12">
-                        <ul id="menu-footer-menu" class="footer-nav-menu">
-                            <li><a href="#">About Us</a></li>
-                            <li><a href="#">Services</a></li>
-                            <li><a href="#">Privacy</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!--footer end-->
-
-    <!--back-to-top start-->
-    <a id="totop" href="#top">
-        <i class="fa fa-angle-up"></i>
-    </a>
-    <!--back-to-top end-->
-
-</div><!-- page end -->
-
-
-    <!-- Javascript -->
-
-    <script src="<?php echo base_url().'js/jquery.min.js';?>"></script>
-    <script src="<?php echo base_url().'js/tether.min.js';?>"></script>
-    <script src="<?php echo base_url().'js/bootstrap.min.js';?>"></script> 
-    <script src="<?php echo base_url().'js/jquery.easing.js';?>"></script>    
-    <script src="<?php echo base_url().'js/jquery-waypoints.js';?>"></script>    
-    <script src="<?php echo base_url().'js/jquery-validate.js';?>"></script> 
-    <script src="<?php echo base_url().'js/owl.carousel.js';?>"></script>
-    <script src="<?php echo base_url().'js/jquery.prettyPhoto.js';?>"></script>
-    <script src="<?php echo base_url().'js/numinate.min.js';?>"></script>
-    <script src="<?php echo base_url().'js/jquery.event.move.js';?>"></script>
-    <script src="<?php echo base_url().'js/jquery.twentytwenty.js'?>"></script>
-    <script src="<?php echo base_url().'js/booked-calendar.js';?>"></script>
-    <script src="<?php echo base_url().'js/main.js';?>"></script>
-    <!-- Javascript end-->
-
-</body>
-</html>
+    <?php include('includes/footer.php');?>
