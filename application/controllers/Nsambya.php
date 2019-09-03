@@ -27,6 +27,9 @@ class Nsambya extends MY_Controller
 	public function Profile(){
 		$this->load->view('profile.php');
 	}
+	public function Services(){
+		$this->load->view('services.php');
+	}
 
 	public function sendcontactus(){
 		$res=$this->sendmail($this->input->post('note'),$this->input->post('email'),'KK Advocates contact form');
