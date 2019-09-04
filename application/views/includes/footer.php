@@ -13,7 +13,7 @@
                                 </div>
                             </div>
                             <div class="featured-title">
-                                <h5>+123 456 78910 / 11</h5>
+                                <h5>+256 414 267 012 / 3</h5>
                                 <h4>Have a question? call us now</h4>
                             </div>
                         </div><!-- featured-icon-box end-->
@@ -29,7 +29,7 @@
                                 </div>
                             </div>
                             <div class="featured-title">
-                                <h5>info@domainname.com</h5>
+                                <h5>info@nsambyahomecare.org</h5>
                                 <h4>Need support? Drop us an email</h4>
                             </div>
                         </div><!-- featured-icon-box end-->
@@ -57,7 +57,7 @@
         <div class="second-footer ttm-textcolor-white">
         <div class="container">
             <div class="row">
-                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-5 widget-area">
                     <div class="widget widget_text clearfix">
                         <h3 class="widget-title">About Delmont</h3>
                         <div class="textwidget widget-text">
@@ -79,17 +79,14 @@
                     <div class="widget widget_nav_menu clearfix">
                         <h3 class="widget-title">Quick Links</h3>
                         <ul id="menu-footer-quick-links">
-                            <li><a href="index.html">Make Appointments</a></li>
-                            <li><a href="services-1.html">Before & After</a></li>
-                            <li><a href="about-1.html">Customer Treatments</a></li>
-                            <li><a href="single-style-1.html">Our Doctors Team</a></li>
-                            <li><a href="blog.html">Departments Services</a></li>
-                            <li><a href="our-team.html">About our Clinic</a></li>
-                            <li><a href="faq.html">Contact Us</a></li>
+                            <li><a href="<?php echo base_url().'Nsambya';?>">Home</a></li>
+                            <li><a href="<?php echo base_url().'Nsambya/About';?>">About Us</a></li>
+                            <li><a href="<?php echo base_url().'Nsambya/Contact';?>">Contact Us</a></li>
+                            <li><a href="<?php echo base_url().'Nsambya/Services';?>">Services</a></li>
                         </ul>
                     </div>
                 </div>
-                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
+                <!-- <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
                     <div class="widget style2 widget-out-link clearfix">
                         <h3 class="widget-title">Latest News</h3>
                         <ul class="widget-post ttm-recent-post-list">
@@ -110,8 +107,8 @@
                             </li>
                         </ul>
                     </div>
-                </div>
-                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
+                </div> -->
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 widget-area">
                     <div class="widget widget_nav_menu menu-footer-services-menu clearfix">
                         <h3 class="widget-title">Our Services</h3>
                         <ul id="menu-footer-services-menu" class="menu">
@@ -125,16 +122,6 @@
                             <li><a href="#">Dermatology</a></li>
                         </ul>
                     </div>
-                    <div class="widget widget-text clearfix">
-                        <h3 class="widget-title">Newsletter</h3>
-                        <form id="subscribe-form" method="post" action="#" data-mailchimp="true">
-                            <div class="ttm_subscribe_form">
-                                <input type="email" name="EMAIL" placeholder="Enter Your Email" required="">
-                                <button class="btn" type="submit"> <i class="fa fa-envelope-o"></i> </button>
-                            </div>
-                            <div class="subscribe-response"></div>
-                        </form>
-                    </div>
                 </div>
             </div>
         </div>
@@ -143,13 +130,12 @@
         <div class="container">
             <div class="row copyright">
                 <div class="col-md-12">
-                    <span>Copyright © 2019 Delmont Theme by <a href="https://themetechmount.com/">ThemetechMount</a></span>
+                    <span>Copyright © <?php echo date("Y"); ?> Nsambya home care department</span>
                 </div>
                 <div class="col-md-12">
                     <ul id="menu-footer-menu" class="footer-nav-menu">
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Services</a></li>
-                        <li><a href="#">Privacy</a></li>
+                        <li><a href="<?php echo base_url().'Nsambya/About'; ?>">About Us</a></li>
+                        <li><a href="<?php echo base_url().'Nsambya/Services'; ?>">Services</a></li>
                     </ul>
                 </div>
             </div>
