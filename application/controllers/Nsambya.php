@@ -6,20 +6,19 @@ class Nsambya extends MY_Controller
 
 	public function Index()
 	{	
-		$this->load->view('index.php',$this->data);	
+		$this->load->view('index.php');	
 	}
 
 	public function About(){
 		$this->load->view('about.php');
 	}
 
-
 	public function Home(){
-		$this->load->view('index.php', $this->data);
+		$this->load->view('index.php');
 	}
 
 	public function Contact(){
-		$this->load->view('contact.php', $this->data);
+		$this->load->view('contact.php');
 	}
 	public function Team(){
 		$this->load->view('team.php');
@@ -27,8 +26,13 @@ class Nsambya extends MY_Controller
 	public function Profile(){
 		$this->load->view('profile.php');
 	}
+<<<<<<< HEAD
 	public function Services(){
 		$this->load->view('services.php');
+=======
+	public function Counselling(){
+		$this->load->view('counselling.php');
+>>>>>>> adds  homepage overlay
 	}
 
 	public function sendcontactus(){
