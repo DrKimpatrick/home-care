@@ -188,34 +188,7 @@
                                 </div><!-- site-branding end -->
                                 <!--site-navigation -->
                                 <div id="site-navigation" class="site-navigation">
-                                    <!-- header-icons -->
-                                    <div class="ttm-header-icons ">
-                                        <span class="ttm-header-icon ttm-header-cart-link">
-                                            <a href="#"><i class="fa fa-shopping-cart"></i>
-                                                <span class="number-cart">0</span>
-                                            </a>
-                                        </span>
-                                        <div class="ttm-header-icon ttm-header-search-link">
-                                            <a href="#"><i class="ti ti-search"></i></a>
-                                            <div class="ttm-search-overlay">
-                                                <div class="ttm-search-outer">
-                                                    <div class="ttm-form-title">Hi, How Can We Help You?</div>
-                                                    <form method="get" class="ttm-site-searchform" action="#">
-                                                        <div class="w-search-form-h">
-                                                            <div class="w-search-form-row">
-                                                                <div class="w-search-input">
-                                                                    <input type="search" class="field searchform-s" name="s" placeholder="Type Word Then Enter...">
-                                                                    <button type="submit">
-                                                                        <i class="ti ti-search"></i>
-                                                                    </button>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div><!-- header-icons end -->
+    
                                     <div class="ttm-menu-toggle">
                                         <input type="checkbox" id="menu-toggle-form" />
                                         <label for="menu-toggle-form" class="ttm-menu-toggle-block">
@@ -226,39 +199,11 @@
                                     </div>
                                     <nav id="menu" class="menu">
                                         <ul class="dropdown">
+
                                            <li class="active"><a href="<?php echo base_url().'Nsambya';?>">Home</a></li>
                                             <li><a href="<?php echo base_url().'Nsambya/About';?>">About Us</a></li>
-                                            <li><a href="#">Research</a>
-                                                <ul>
-                                                    <li><a href="research-style-1.html">Research Style 1</a></li>
-                                                    <li><a href="research-style-2.html">Research Style 2</a></li>
-                                                    <li><a href="#">Project Single</a>
-                                                       <ul>
-                                                            <li><a href="single-style-1.html">Style One</a></li>
-                                                            <li><a href="single-style-2.html">Style Two</a></li>
-                                                            <li><a href="single-style-3.html">Style Three</a></li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                           <li><a href="#">Services</a>
-                                                <ul>
-                                                    <li><a href="neurology-services.html">Neurology Services</a></li>
-                                                    <li><a href="cardiology-services.html">Cardiology Services</a></li>
-                                                    <li><a href="x-ray-rmi-services.html">X-Ray & RMI Services</a></li>
-                                                    <li><a href="eye-care-services.html">Eye Care Services</a></li>
-                                                    <li><a href="dental-services.html">Dental Services</a></li>
-                                                    <li><a href="orthopaedics-services.html">Orthopaedics Services</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="#">Blog</a>
-                                                <ul>
-                                                    <li><a href="blog.html">Blog Classic</a></li>
-                                                    <li><a href="blog-left-image.html">Blog Left Image</a></li>
-                                                    <li><a href="blog-grid-view.html">Blog Grid View</a></li>
-                                                    <li><a href="single-blog.html">Blog Single View</a></li>
-                                                </ul>
-                                            </li>
+                                            <li><a href="<?php echo base_url().'Nsambya/Contact';?>">Contact Us</a></li>
+                                            <li><a href="<?php echo base_url().'Nsambya/Services';?>">Services</a></li>
                                         </ul>
                                     </nav>
                                 </div><!-- site-navigation end-->
