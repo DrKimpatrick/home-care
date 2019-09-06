@@ -594,48 +594,6 @@
                         </div>
                     </div>
                 </div>
-<<<<<<< HEAD
-            </div><!-- ttm-fid-border end-->
-        </div>
-    </div><!-- row end -->
-</div>
-</section>
-<!--broken-section end-->
-
-<!--services-section-->
-<div class="ttm-row services-section ttm-bgcolor-darkgrey bg-img5 ttm-bg ttm-bgimage-yes ttm-bgcolor-darkgrey clearfix">
-<div class="ttm-row-wrapper-bg-layer ttm-bg-layer"></div>
-<div class="container">
-    <!-- row -->
-    <div class="row">
-        <div class="col-lg-9 col-md-12">
-            <!-- section-title -->
-            <div class="section-title with-desc clearfix">
-                <div class="title-header">
-                    <h5>WE OFFER SERVICES</h5>
-                    <h2 class="title">Special High-quality Services</h2>
-                </div>
-                <div class="title-desc">Since its founding Delmont has been providing its patients with the full medical care, encompassing outpatients services, is neurology, laboratory, imaging diagnostics and more.</div>
-            </div><!-- section-title end -->
-        </div>
-        <div class="col-lg-3 col-md-12">
-            <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-border ttm-btn-color-white mb-30 mt-45 res-991-mt-0 float-right" href="<?php echo base_url().'Nsambya/Services' ;?>">MORE SERVICES</a>
-        </div>
-    </div><!-- row end -->
-    <div class="row">
-        <div class="col-lg-12">
-            <div class="mt-10">
-                <div class="row no-gutters">
-                    <div class="col-md-3 col-sm-6">
-                        <!--featured-icon-box-->
-                        <div class="featured-icon-box style5">
-                            <div class="featured-content">
-                                <div class="featured-title">
-                                    <h5>Internists</h5>
-                                </div>
-                                <div class="featured-desc">
-                                    <p>For normal & complex disease. subspecialties in  sleep medicine, cancer etc.</p>
-=======
                 <!-- row -->
                 <div class="row multi-columns-row ttm-boxes-spacing-10px">
                     <div class="ttm-box-col-wrapper col-lg-4 col-md-4 col-sm-6">
@@ -651,7 +609,6 @@
                                     <a class="ttm_prettyphoto ttm_image" title="Fitness Guidance to Patient" data-rel="prettyPhoto" href="images/portfolio/01.jpg">
                                         <i class="ti ti-search"></i>
                                     </a>
->>>>>>> adds  homepage overlay
                                 </div>
                                 <div class="ttm-box-view-content-inner">
                                     <div class="featured-content featured-content-portfolio">

@@ -69,11 +69,7 @@
                                                 <div class="row">
                                                     <div class="col-sm-3">
                                                         <div class="toggle-figure res-991-mb-15">
-<<<<<<< HEAD
                                                             <img class="img-fluid" src="<?php echo  base_url().'images/portfolio/mission2.jpg';?>" alt="image">
-=======
-                                                            <img class="img-fluid" src="<?php echo  base_url().'images/portfolio/post-one-1200x800.jpg';?>" alt="image">
->>>>>>> adds about us page
                                                         </div>
                                                     </div>
                                                     <div class="col-sm-9">
@@ -91,35 +87,11 @@
                                                 <div class="row">
                                                     <div class="col-sm-3">
                                                         <div class="toggle-figure res-991-mb-15">
-<<<<<<< HEAD
                                                             <img class="img-fluid" src="<?php echo  base_url().'images/portfolio/vision.jpg';?>" alt="image">
                                                         </div>
                                                     </div>
                                                     <div class="col-sm-9">
                                                         <p>To become a model of excellence in Home based a care service that creates a community that can suitably manage the effects of HIV/AIDS ..</p>
-=======
-                                                            <img class="img-fluid" src="<?php echo  base_url().'images/portfolio/post-two-1200x800.jpg';?>" alt="image">
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-sm-9">
-                                                        <p>Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and bore advanced restorative dentistry. We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div><!-- toggle end -->
-                                        <!-- toggle -->
-                                        <div class="toggle">
-                                            <div class="toggle-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapseThree" >Our Stratagies</a></div>
-                                            <div class="toggle-content">
-                                                <div class="row">
-                                                    <div class="col-sm-3">
-                                                        <div class="toggle-figure res-991-mb-15">
-                                                            <img class="img-fluid" src="<?php echo  base_url().'images/portfolio/post-one-1200x800.jpg';?>" alt="image">
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-sm-9">
-                                                        <p>Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and bore advanced restorative dentistry. We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience.</p>
->>>>>>> adds about us page
                                                     </div>
                                                 </div>
                                             </div>
@@ -503,8 +475,4 @@
 
     </div><!--site-main end-->
 
-<<<<<<< HEAD
     <?php include('includes/footer.php');?>
-=======
-    <?php include('includes/footer.php');?>
->>>>>>> adds about us page
