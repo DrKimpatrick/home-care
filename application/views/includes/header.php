@@ -107,7 +107,29 @@
                                            <li class="active"><a href="<?php echo base_url().'Nsambya';?>">Home</a></li>
                                             <li><a href="<?php echo base_url().'Nsambya/About';?>">About Us</a></li>
                                             <li><a href="<?php echo base_url().'Nsambya/Contact';?>">Contact Us</a></li>
+<<<<<<< HEAD
                                             <li><a href="<?php echo base_url().'Nsambya/Services';?>">Services</a></li>
+=======
+                                         
+                                           <li><a href="#">Services</a>
+                                                <ul>
+                                                    <li><a href="neurology-services.html">Neurology Services</a></li>
+                                                    <li><a href="cardiology-services.html">Cardiology Services</a></li>
+                                                    <li><a href="x-ray-rmi-services.html">X-Ray & RMI Services</a></li>
+                                                    <li><a href="eye-care-services.html">Eye Care Services</a></li>
+                                                    <li><a href="dental-services.html">Dental Services</a></li>
+                                                    <li><a href="orthopaedics-services.html">Orthopaedics Services</a></li>
+                                                </ul>
+                                            </li>
+                                            <li><a href="#">Blog</a>
+                                                <ul>
+                                                    <li><a href="blog.html">Blog Classic</a></li>
+                                                    <li><a href="blog-left-image.html">Blog Left Image</a></li>
+                                                    <li><a href="blog-grid-view.html">Blog Grid View</a></li>
+                                                    <li><a href="single-blog.html">Blog Single View</a></li>
+                                                </ul>
+                                            </li>
+>>>>>>> updates the controller
                                         </ul>
                                     </nav>
                                 </div><!-- site-navigation end-->
