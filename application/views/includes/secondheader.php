@@ -72,23 +72,22 @@
                 <div class="container">
                     <div class="ttm-topbar-content">
                         <ul class="top-contact text-left">
-                            <li><i class="themifyicon ti-location-pin"></i>234 Triumph, Los Angeles, California, US</li>
-                            <li><i class="themifyicon ti-timer"></i>Mon - Sat 8.00 - 18.00. Sunday CLOSED</li>
+                            <li><i class="themifyicon ti-location-pin"></i>Nsambya hill opposite St. Francis hospital Nsambya main gate</li>
+                            <li><i class="themifyicon ti-timer"></i>Mon - Sun 8:30am - 5:00pm</li>
                         </ul>
                         <div class="topbar-right text-right">
                             <div class="ttm-social-links-wrapper list-inline">
                                 <ul class="social-icons">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a>
+                                    <li><a href="https://www.facebook.com/NsambyaHomecare/?ref=bookmarks" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="https://twitter.com/infonsambya" target="_blank"><i class="fa fa-twitter"></i></a>
                                     </li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a>
+                                    <li><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a>
                                     </li>
-                                    <li><a href="#"><i class="fa fa-pinterest-p"></i></a>
-                                    </li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                                    <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
                                     </li>
                                 </ul>
                             </div>
-                            <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-fill ttm-btn-color-skincolor" href="#">GET A APPOINTMENT!</a>
+                            <!-- <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-fill ttm-btn-color-skincolor" href="#">GET A APPOINTMENT!</a> -->
                         </div>
                     </div>
                 </div>
@@ -168,7 +167,7 @@
                             </div>
                             <!-- ttm-info-widget end -->
                             <div class="ttm-contact">
-                                <span class="icon"><i class="fa fa-phone"></i></span>Toll Free : 1 123 456 78910
+                                <span class="icon"><i class="fa fa-phone"></i></span> +256 414 267 012 / 3
                             </div>
                         </div>
                     </div>

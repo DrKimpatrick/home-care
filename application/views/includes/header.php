@@ -89,8 +89,8 @@
                                             <div class="icon"> <i class="fa fa-phone"></i></div>
                                         </div>
                                         <div class="header-info-widget">
-                                            <h2>(+1)800 123 456 </h2>
-                                            <h3>info@domainname.com</h3>
+                                            <h2>+256 414 267 012 / 3 </h2>
+                                            <h3>info@nsambyahomecare.org</h3>
                                         </div>
                                     </div>
                                     <!-- ttm-header-text-area end -->
