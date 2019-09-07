@@ -58,25 +58,25 @@
                                             <h5>WHAT WE DO</h5>
                                             <h2 class="title">We Have <?php echo date("Y") - 1987; ?> Years Experience</h2>
                                         </div>
-                                        <div class="title-desc">
-                                        Nsambya Home Care (NHC) is a department of St. Francis Hospital Nsambya. That was established by Sr. Miriam Duggan in June 1987 
-                                        to primarily decongest the hospital clinics of HIV patients. The main beneficiaries are the poor women and children living with 
-                                        HIV, their families and the communities in central districts of; Kampala, Mukono, Wakiso and Mpigi. With HIV prevalence of 8.5% 
-                                        among adults of population of 4,000,000 people. NHC’s overall objective is; to provide with love holistic Home-Based Care quality 
-                                        services to HIV/AIDS infected and affected persons that delight them, their families and communities.
-                                        <span id="dots">...</span><span id="more" style="display: none"
-                                        >
-                                        Through its holistic HIV services delivery facility-based and Home-Based services, and support with various community linkages; over 
-                                        14,600 patients and their families have been served since inception. NHC has a total of 6,931 (460 adolescents) patients on anti-retroviral
-                                         drugs. The total number of adolescents includes those not yet eligible for ARVs is 580. NHC provides these adolescents with free medical care 
-                                         including ARVs, nutrition support during clinic visits, educational support in form fees for primary education and apprenticeship training, 
-                                         entrepreneurship skills training and startup capital for their families.
+                                            <div class="title-desc">
+                                            Nsambya Home Care (NHC) is a department of St. Francis Hospital Nsambya. That was established by Sr. Miriam Duggan in June 1987 
+                                            to primarily decongest the hospital clinics of HIV patients. The main beneficiaries are the poor women and children living with 
+                                            HIV, their families and the communities in central districts of; Kampala, Mukono, Wakiso and Mpigi. With HIV prevalence of 8.5% 
+                                            among adults of population of 4,000,000 people. NHC’s overall objective is; to provide with love holistic Home-Based Care quality 
+                                            services to HIV/AIDS infected and affected persons that delight them, their families and communities.
+                                            <span id="dots">...</span><span id="more" style="display: none"
+                                            >
+                                            Through its holistic HIV services delivery facility-based and Home-Based services, and support with various community linkages; over 
+                                            14,600 patients and their families have been served since inception. NHC has a total of 6,931 (460 adolescents) patients on anti-retroviral
+                                            drugs. The total number of adolescents includes those not yet eligible for ARVs is 580. NHC provides these adolescents with free medical care 
+                                            including ARVs, nutrition support during clinic visits, educational support in form fees for primary education and apprenticeship training, 
+                                            entrepreneurship skills training and startup capital for their families.
 
-                                        NHC created an adolescent clinic that runs on Fridays; it runs a monthly Adolescent voice Newsletter that has contributed experience sharing. 
-                                        Human resource capacity built; 45 youth, 17 couples and 20 adolescents trained as trainers of trainees and staff in programming. NHC initiated 
-                                        the “expert patients” model 10 years ago with 50 Community Volunteers who compliment health service delivery at NHC. The organization has addressed 
-                                        behavior change beyond AB for the youth and couples; over 2,000 youth and over 834 couples have been trained using the Value of Life and Faithful 
-                                        House curriculum respectively.</span></div>
+                                            NHC created an adolescent clinic that runs on Fridays; it runs a monthly Adolescent voice Newsletter that has contributed experience sharing. 
+                                            Human resource capacity built; 45 youth, 17 couples and 20 adolescents trained as trainers of trainees and staff in programming. NHC initiated 
+                                            the “expert patients” model 10 years ago with 50 Community Volunteers who compliment health service delivery at NHC. The organization has addressed 
+                                            behavior change beyond AB for the youth and couples; over 2,000 youth and over 834 couples have been trained using the Value of Life and Faithful 
+                                            House curriculum respectively.</span></div>
                                         <button style="background-color: #033B4A" onclick="myFunction()" id="myBtn">Read more</button>
                                     </div><!-- section title end -->
                                     <!-- acadion -->
@@ -575,7 +575,7 @@
                             <div class="client-box ttm-box-view-logo">
                                 <div class="ttm-client-logo-tooltip" data-tooltip="Uganda Catholic Medical Bureau">
                                     <div class="client-thumbnail">
-                                    <a href="http://www.ucmb.co.ug/" target="_blank"><img src="<?php echo  base_url().'images/partners/LogoUCMB1.jpg';?>" alt="image"></a>
+                                    <a href="http://www.ucmb.co.ug/" target="_blank"><img src="<?php echo  base_url().'images/partners/LogoUCMB1.jpg';?>" alt="image"></a>s
                                     </div>
                                 </div>
                             </div>
