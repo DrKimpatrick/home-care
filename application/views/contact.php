@@ -14,7 +14,7 @@
                         <div class="container">
                             <div class="breadcrumb-wrapper-inner">
                                 <span>
-                                    <a title="Go to Delmont." href="<?php echo base_url().'Kasumba'; ?>" class="home"><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
+                                    <a title="Go to Delmont." href="<?php echo base_url().'Nsambya'; ?>" class="home"><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
                                 </span>
                                 <span class="ttm-bread-sep">&nbsp; | &nbsp;</span>
                                 <span>Contact Us</span>
@@ -53,8 +53,8 @@
                                     </div>
                                 </div>
                                 <div class="featured-title">
-                                    <h5>58 BalSouth Lane,Harward Street</h5>
-                                    <h4>NewYork 33025</h4>
+                                    <h5>OPPOSITE ST. FRANCIS HOSPITAL NSAMBYA MAIN GATE</h5>
+                                    <h4>Nsambya hill</h4>
                                 </div>
                             </div>
                         </div><!-- featured-icon-box end-->
@@ -67,7 +67,7 @@
                                     </div>
                                 </div>
                                 <div class="featured-title">
-                                    <h5>info@domainname.com</h5>
+                                    <h5>info@nsambyahomecare.org</h5>
                                     <h4>Need support? Drop us an email</h4>
                                 </div>
                             </div>
@@ -81,7 +81,7 @@
                                     </div>
                                 </div>
                                 <div class="featured-title">
-                                    <h5>+123 456 78910 / 11</h5>
+                                    <h5>+256 414 267 012 / 3</h5>
                                     <h4>Have a question? call us now</h4>
                                 </div>
                             </div>
@@ -95,7 +95,7 @@
                                     </div>
                                 </div>
                                 <div class="featured-title">
-                                    <h5>Mon – Sat 07:00 – 21:00</h5>
+                                    <h5>Mon - Sun 8:30am - 5:00pm</h5>
                                     <h4>We are open on</h4>
                                 </div>
                             </div>
@@ -106,8 +106,8 @@
                         </div>
                         <div class="social-icons circle social-hover">
                             <ul class="list-inline">
-                                <li class="social-facebook"><a class="tooltip-top" target="_blank" href="#" data-tooltip="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                <li class="social-twitter"><a class="tooltip-top" target="_blank" href="#" data-tooltip="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li class="social-facebook"><a class="tooltip-top" target="_blank" href="https://www.facebook.com/NsambyaHomecare/?ref=bookmarks" data-tooltip="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li class="social-twitter"><a class="tooltip-top" target="_blank" href="https://twitter.com/infonsambya" data-tooltip="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
                                 <li class="social-gplus"><a class=" tooltip-top" target="_blank" href="#" data-tooltip="Google+"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
                                 <li class="social-linkedin"><a class=" tooltip-top" target="_blank" href="" data-tooltip="LinkedIn"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
                             </ul>

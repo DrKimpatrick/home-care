@@ -14,7 +14,7 @@
                                 <div class="container">
                                     <div class="breadcrumb-wrapper-inner">
                                         <span>
-                                            <a title="Go to Delmont." href="index.html" class="home"><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
+                                            <a title="Go to Delmont." href="<?php echo base_url().'Nsambya'; ?>" class="home"><i class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
                                         </span>
                                         <span class="ttm-bread-sep">&nbsp; | &nbsp;</span>
                                         <span>Services</span>
