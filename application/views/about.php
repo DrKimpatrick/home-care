@@ -424,47 +424,41 @@
                         <!-- ttm-client -->
                         <div class="ttm-client clients-slide owl-carousel owl-theme owl-loaded mt-5" data-item="5" data-nav="false" data-dots="false" data-auto="false">
                             <div class="client-box ttm-box-view-logo">
-                                <div class="ttm-client-logo-tooltip" data-tooltip="client-01">
+                                <div class="ttm-client-logo-tooltip" data-tooltip="Infectious Diseases Institute">
                                     <div class="client-thumbnail">
-                                        <img src="<?php echo  base_url().'images/client/client-01.png';?>" alt="image">
+                                        <a href="http://www.ucmb.co.ug/" target="_blank"><img src="<?php echo  base_url().'images/partners/Africalogo1.jpg';?>" alt="image"></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="client-box ttm-box-view-logo">
-                                <div class="ttm-client-logo-tooltip" data-tooltip="client-02">
+                                <div class="ttm-client-logo-tooltip" data-tooltip="Uganda Catholic Medical Bureau">
                                     <div class="client-thumbnail">
-                                        <img src="<?php echo  base_url().'images/client/client-02.png';?>" alt="image">
+                                    <a href="http://www.ucmb.co.ug/" target="_blank"><img src="<?php echo  base_url().'images/partners/LogoUCMB1.jpg';?>" alt="image"></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="client-box ttm-box-view-logo">
-                                <div class="ttm-client-logo-tooltip" data-tooltip="client-03">
+                                <div class="ttm-client-logo-tooltip" data-tooltip="Infectious Diseases Institute">
                                     <div class="client-thumbnail">
-                                        <img src="<?php echo  base_url().'images/client/client-03.png';?>" alt="image">
+                                        <a href="http://www.ucmb.co.ug/" target="_blank"><img src="<?php echo  base_url().'images/partners/Africalogo1.jpg';?>" alt="image"></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="client-box ttm-box-view-logo">
-                                <div class="ttm-client-logo-tooltip" data-tooltip="client-01">
+                                <div class="ttm-client-logo-tooltip" data-tooltip="Uganda Catholic Medical Bureau">
                                     <div class="client-thumbnail">
-                                        <img src="<?php echo  base_url().'images/client/client-01.png';?>" alt="image">
+                                    <a href="http://www.ucmb.co.ug/" target="_blank"><img src="<?php echo  base_url().'images/partners/LogoUCMB1.jpg';?>" alt="image"></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="client-box ttm-box-view-logo">
-                                <div class="ttm-client-logo-tooltip" data-tooltip="client-02">
+                                <div class="ttm-client-logo-tooltip" data-tooltip="Uganda Catholic Medical Bureau">
                                     <div class="client-thumbnail">
-                                        <img src="<?php echo  base_url().'images/client/client-02.png';?>" alt="image">
+                                    <a href="http://www.ucmb.co.ug/" target="_blank"><img src="<?php echo  base_url().'images/partners/LogoUCMB1.jpg';?>" alt="image"></a>
                                     </div>
                                 </div>
                             </div>
-                            <div class="client-box ttm-box-view-logo">
-                                <div class="ttm-client-logo-tooltip" data-tooltip="client-03">
-                                    <div class="client-thumbnail">
-                                        <img src="images/client/client-03.png" alt="image">
-                                    </div>
-                                </div>
-                            </div>
+                            
                         </div><!-- ttm-client end -->      
                     </div>
                 </div><!-- row end -->
