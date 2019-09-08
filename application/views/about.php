@@ -454,18 +454,7 @@
                             <div class="client-box ttm-box-view-logo">
                                 <div class="ttm-client-logo-tooltip" data-tooltip="Uganda Catholic Medical Bureau">
                                     <div class="client-thumbnail">
-<<<<<<< HEAD
                                     <a href="http://www.ucmb.co.ug/" target="_blank"><img src="<?php echo  base_url().'images/partners/LogoUCMB1.jpg';?>" alt="image"></a>
-=======
-                                        <img src="<?php echo  base_url().'images/client/client-02.png';?>" alt="image">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="client-box ttm-box-view-logo">
-                                <div class="ttm-client-logo-tooltip" data-tooltip="client-03">
-                                    <div class="client-thumbnail">
-                                        <img src="<?php echo base_url().'images/client/client-03.png';?>" alt="image">
->>>>>>> added the active class functionality and new logo
                                     </div>
                                 </div>
                             </div>

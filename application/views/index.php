@@ -169,85 +169,6 @@
                             data-paddingleft="[0,0,0,0]"><strong class="ttm-textcolor-skincolor">Trusted </strong> Health Care 
                         </div>
 
-                        <div class="tp-caption slide-main-text tp-resizeme" id="slide-2-layer-5" data-x="['left','left','left','center']" data-hoffset="['50','40','30','0']" data-y="['top','top','top','middle']" data-voffset="['523','366','235','27']"
-
-                            data-fontsize="['17','17','15','12']"
-                            data-lineheight="['20','20','26','20']"
-                            data-color="['rgb(247,247,247)','rgb(247,247,247)','rgb(237,237,237)','rgb(237,237,237)']"
-                            data-width="none"
-                            data-height="none"
-                            data-whitespace="nowrap"
-                            data-type="text"
-                            data-responsive_offset="on"
-                            data-frames='[{"delay":1090,"speed":500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                            data-textAlign="['inherit','inherit','inherit','center']"
-                            data-paddingtop="[0,0,0,0]"
-                            data-paddingright="[0,0,0,0]"
-                            data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]">Dr. Mark Hoffman's Delmont Clinic Welcomes You! 
-                        </div>
-
-                        <div class="tp-caption slide-main-text tp-resizeme" id="slide-2-layer-8" data-x="['center','center','center','center']" data-hoffset="['445','347','245','442']" data-y="['middle','middle','middle','middle']" data-voffset="['274','227','138','95']"
-
-                            data-fontsize="['19','19','19','18']"
-                            data-lineheight="['19','19','19','20']"
-                            data-fontweight="['400','400','400','400']"
-                            data-color="['rgb(255, 255, 255)','rgb(255, 255, 255)','rgb(255, 255, 255)','rgb(255, 255, 255)']"
-                            data-width="none"
-                            data-height="none"
-                            data-whitespace="nowrap"
-                            data-visibility="['on','on','on','off']"
-                            data-type="text"
-                            data-responsive_offset="on"
-                            data-frames='[{"delay":1350,"speed":500,"frame":"0","from":"x:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                            data-textAlign="['inherit','inherit','inherit','inherit']"
-                            data-paddingtop="[0,0,0,0]"
-                            data-paddingright="[0,0,0,0]"
-                            data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]">Play Video 
-                        </div>
-
-                        <div class="tp-caption slide-desc-text tp-resizeme" id="slide-2-layer-9" data-x="['center','center','center','center']" data-hoffset="['383','282','188','360']" data-y="['middle','middle','middle','middle']" data-voffset="['298','250','162','125']"
-
-                            data-fontsize="['15','15','14','13']"
-                            data-lineheight="['15','15','15','13']"
-                            data-fontweight="['400','400','400','400']"
-                            data-color="['rgb(255, 255, 255)','rgb(255, 255, 255)','rgb(255, 255, 255)','rgb(255, 255, 255)']"
-                            data-width="none"
-                            data-height="none"
-                            data-whitespace="nowrap"
-                            data-visibility="['on','on','on','off']"
-                            data-type="text"
-                            data-responsive_offset="on"
-                            data-frames='[{"delay":1570,"speed":300,"frame":"0","from":"x:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                            data-textAlign="['inherit','inherit','inherit','inherit']"
-                            data-paddingtop="[0,0,0,0]"
-                            data-paddingright="[0,0,0,0]"
-                            data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]">Schedule Today 
-                        </div>
-
-                        <a class="tp-caption slide-desc-text tp-resizeme" href="#" target="_self" id="slide-2-layer-10" data-x="['center','center','center','center']" data-hoffset="['466','366','267','465']" data-y="['middle','middle','middle','middle']" data-voffset="['297','250','161','123']"
-
-                            data-fontsize="['15','15','14','13']"
-                            data-lineheight="['15','15','14','13']"
-                            data-fontweight="['400','400','400','600']"
-                            data-color="['rgb(0, 214, 163)','rgb(0, 214, 163)','rgb(0, 214, 163)','rgb(0, 214, 163)']"
-                            data-width="none"
-                            data-height="none"
-                            data-whitespace="nowrap"
-                            data-visibility="['on','on','on','off']"
-                            data-type="text"
-                            data-actions=''
-                            data-responsive_offset="on"
-                            data-frames='[{"delay":1570,"speed":300,"frame":"0","from":"x:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(255,255,255);br:0px 0px 0px 0px;"}]'
-                            data-textAlign="['inherit','inherit','inherit','inherit']"
-                            data-paddingtop="[0,0,0,0]"
-                            data-paddingright="[0,0,0,0]"
-                            data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]"><u>Conatct </u>
-                        </a>
-
                         <a class="tp-caption white-flatborder-button tp-resizeme" href="#" target="_self" id="slide-2-layer-6" data-x="['left','left','left','center']" data-hoffset="['50','40','30','0']" data-y="['top','top','top','middle']" data-voffset="['582','426','293','87']"
 
                             data-fontsize="['13','13','13','12']"
@@ -303,7 +224,7 @@
                             data-paddingtop="[0,0,0,0]"
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]"><i class="fa fa-play"></i> 
+                            data-paddingleft="[0,0,0,0]">
                         </a>
                     </li>
                 </ul>
@@ -390,11 +311,7 @@
                         <div class="col-bg-img-two ttm-col-bgimage-yes ttm-bg res-991-ptb-200 ttm-reset-content-center-991">
                             <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
                             <div class="layer-content">
-                                <div class="ttm-video-icon ttm-left-video-icon text-right mt_30 mr_40 res-991-m-0">
-                                    <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-white ttm-icon_element-background-skincolor ttm-icon_element-size-md ttm-icon_element-style-rounded">
-                                        <i class="fa fa-play"></i>
-                                    </div>
-                                </div>
+                            
                             </div>
                         </div><!-- col-bg-img-two end-->
                     </div>
@@ -404,60 +321,20 @@
                             <div class="section-title clearfix">
                                 <div class="title-header">
                                     <h5>INTRODUCING</h5>
-                                    <h2 class="title">Tackle the challenge of delivering health care</h2>
+                                    <h2 class="title">About Us</h2>
                                 </div>
                             </div><!-- section title end -->
                             <div class="mb-30 clearfix">
-                                <p>We provide the most full medical services, so every person could have the opportunity to receive qualitative medical help.</p>
-                                <p>Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and bore advanced restorative dentistry. We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience.</p>
+                                <p>
+                                    Nsambya Home Care (NHC) is a department of St. Francis Hospital Nsambya. That was established by Sr. Miriam Duggan in June 1987 to primarily decongest the hospital clinics of HIV patients. The main beneficiaries are the poor women and children living with HIV, their families and the communities in central districts of; Kampala, Mukono, Wakiso and Mpigi. With HIV prevalence of 8.5% among adults of population of 4,000,000 people. NHC’s overall objective is; to provide with love holistic Home-Based Care quality services to HIV/AIDS infected and affected persons that delight them, their families and communities....
+                                </p>
+                                <a href="<?php echo base_url().'Nsambya/About';?>" class="btn" style="background-color: #01d6a3; color:white; border-radius: 0 !important;" id="myBtn">READ MORE</a>
                             </div>
-                            <div class="ttm_sign_image-wrapper mb-25 res-991-mb-0">
-                                <img src="images/dr-sign.png" alt="ttm_single_image-wrapper">
-                            </div>
+ 
                             <div class="sep_holder_box pt-25 mb-50 res-991-mb-20">
                                 <span class="sep_holder"><span class="sep_line"></span></span>
                             </div>
-                            <div class="row">
-                                <div class="col-md-4 col-sm-12">
-                                    <!--featured-icon-box-->
-                                    <div class="featured-icon-box left-icon">
-                                        <div class="featured-icon ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md"> 
-                                            <i class="fa fa-calendar"></i>
-                                        </div>
-                                        <div class="featured-content">
-                                            <div class="featured-title">
-                                                <h5>Online Appointment!</h5>
-                                            </div>
-                                        </div>
-                                    </div><!-- featured-icon-box end-->
-                                </div>
-                                <div class="col-md-4 col-sm-12">
-                                    <!--featured-icon-box-->
-                                    <div class="featured-icon-box left-icon">
-                                        <div class="featured-icon ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md"> 
-                                            <i class="fa fa-map-marker"></i>
-                                        </div>
-                                        <div class="featured-content">
-                                            <div class="featured-title">
-                                                <h5>Available at Your Location</h5>
-                                            </div>
-                                        </div>
-                                    </div><!-- featured-icon-box end-->
-                                </div>
-                                <div class="col-md-4 col-sm-12">
-                                    <!--featured-icon-box-->
-                                    <div class="featured-icon-box left-icon">
-                                        <div class="featured-icon ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md"> 
-                                            <i class="fa fa-clock-o"></i>
-                                        </div>
-                                        <div class="featured-content">
-                                            <div class="featured-title">
-                                                <h5>Work Improvements</h5>
-                                            </div>
-                                        </div>
-                                    </div><!-- featured-icon-box end-->
-                                </div>
-                            </div>
+                          
                         </div>
                     </div>
                 </div><!-- row end -->
@@ -465,6 +342,117 @@
         </section>
         <!--introduction-section end-->
 
+
+        <!-- testimonial-section -->
+        <section class="ttm-row broken-section bg-layer break-991-colum clearfix">
+            <div class="container">
+                <!-- row -->
+                <div class="row">
+                    <div class="col-md-5">
+                       <div class="ttm-col-bgcolor-yes ttm-bg ttm-left-span ttm-bgcolor-skincolor spacing-5">
+                            <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
+                            <div class="layer-content">
+                                <!-- section title -->
+                                <div class="section-title with-desc clearfix">
+                                    <div class="title-header">
+                                        <h5>CLIENTS</h5>
+                                        <h2 class="title">Happy Patients & Clients</h2>
+                                    </div>
+                                    <div class="title-desc">If you need any industrial solution we are available for you. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
+                                </div><!-- section title end -->
+                                <a class="ttm-btn ttm-btn-size-sm ttm-icon-btn-right ttm-btn-color-white btn-inline mt_25" href="#">VIEW MORE DETAILS<i class="ti ti-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <!-- testimonial-box -->
+                        <div class="testimonial-box">
+                            <div class="ttm-col-bgcolor-yes ttm-right-span ttm-bg ttm-bgcolor-darkgrey spacing-6">
+                                <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
+                                <div class="layer-content">
+                                    <!-- wrap-testimonial -->
+                                    <div class="testimonial-slide owl-carousel" data-item="1" data-nav="true" data-dots="false" data-auto="true">
+                                        <!-- testimonials -->
+                                        <div class="testimonials ttm-testimonial-box-view-style1">
+                                            <div class="testimonial-avatar">
+                                                <div class="testimonial-img">
+                                                    <img class="img-fluid" src="<?php echo base_url().'images/testimonial/01.jpg';?>" alt="testimonial-img">
+                                                </div>
+                                                 <div class="testimonial-caption">
+                                                    <h5>RAshley Foster</h5>
+                                                    <label>Patient</label>
+                                                </div>
+                                            </div>
+                                            <div class="testimonial-content">
+                                                <blockquote class="ttm-testimonial-text">Prior to my stay at Delmont, I was aware of their stellar reputation and multiple friends commented about how lucky I was to have my surgery scheduled there. As a result my expectations were high and yet the kind and professional staff with excellent patient care surpassed them.</blockquote>
+                                                <div class="star-ratings">
+                                                    <ul class="rating">
+                                                        <li><i class="fa fa-star"></i></li>
+                                                        <li><i class="fa fa-star"></i></li>
+                                                        <li><i class="fa fa-star"></i></li>
+                                                        <li><i class="fa fa-star"></i></li>
+                                                        <li><i class="fa fa-star"></i></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div><!-- testimonials end -->
+                                        <!-- testimonials -->
+                                        <div class="testimonials ttm-testimonial-box-view-style1"> 
+                                            <div class="testimonial-avatar">
+                                                <div class="testimonial-img">
+                                                    <img class="img-fluid" src="<?php echo base_url().'images/testimonial/02.jpg';?>" alt="testimonial-img">
+                                                </div>
+                                                <div class="testimonial-caption">
+                                                    <h5>Alan Sears</h5>
+                                                    <label>Patient</label>
+                                                </div>
+                                            </div>
+                                            <div class="testimonial-content">
+                                                <blockquote class="ttm-testimonial-text">Great co workers, really good environment and excellent patient care. They are continuously innovating themselves which is why they remain a premier dental clinic.This was the cleanest medical establishment I've ever been in. They just loved the welcoming and warm atmosphere in there.</blockquote>
+                                                <div class="star-ratings">
+                                                    <ul class="rating">
+                                                        <li><i class="fa fa-star"></i></li>
+                                                        <li><i class="fa fa-star"></i></li>
+                                                        <li><i class="fa fa-star"></i></li>
+                                                        <li><i class="fa fa-star"></i></li>
+                                                        <li><i class="fa fa-star"></i></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div><!-- testimonials end -->
+                                        <!-- testimonials -->
+                                        <div class="testimonials ttm-testimonial-box-view-style1"> 
+                                            <div class="testimonial-avatar">
+                                                <div class="testimonial-img">
+                                                    <img class="img-fluid" src="<?php echo base_url().'images/testimonial/03.jpg';?>" alt="testimonial-img">
+                                                </div>
+                                                <div class="testimonial-caption">
+                                                    <h5>Raymon Myers</h5>
+                                                    <label>Patient</label>
+                                                </div>
+                                            </div>
+                                            <div class="testimonial-content">
+                                                <blockquote class="ttm-testimonial-text">The doctors and nurses and aides were excellent. The food was excellent. I am feeling fine and very lucky, back to my old self again and it feels great. Thank God for clinics such as yours. I appreciate all your kindness and good care you gave me is beyond my expectations they wonder for me.</blockquote>
+                                                <div class="star-ratings">
+                                                    <ul class="rating">
+                                                        <li><i class="fa fa-star"></i></li>
+                                                        <li><i class="fa fa-star"></i></li>
+                                                        <li><i class="fa fa-star"></i></li>
+                                                        <li><i class="fa fa-star"></i></li>
+                                                        <li><i class="fa fa-star"></i></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div><!-- testimonials end -->
+                                    </div><!-- wrap-testimonial end-->
+                                </div>
+                            </div>
+                        </div><!-- testimonial-box end-->
+                    </div>
+                </div><!-- row end-->
+            </div>
+        </section>
+        <!-- testimonial-section end-->
 
         <!--quality-services-section-->
         <div class="ttm-row quality-services-section ttm-bgcolor-grey clearfix">
@@ -548,25 +536,6 @@
         </div>
         <!--quality-services-section end-->     
 
-        <!--action-section-->
-        <section class="ttm-row action-section bg-img5 ttm-bg ttm-bgimage-yes ttm-bgcolor-darkgrey clearfix">
-            <div class="ttm-row-wrapper-bg-layer ttm-bg-layer"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="action-box text-center">
-                            <h4 class="ttm-textcolor-skincolor font-weight-normal">Need a Doctor for Check-up?</h4>
-                            <div class="mb-20">
-                                <h1 class="ttm-textcolor-white">Just make an Appointment & You’re Done!</h1>
-                            </div>
-                            <h3 class="ttm-textcolor-white font-weight-normal">Get Your Quote or Call: (0080) 123-453-789</h3>
-                            <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-fill ttm-btn-color-skincolor mt-30" href="#">GET AN APPOINTMENT</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--action-section end-->
 
         <!-- fid-section -->
         <section class="ttm-row fid-section ttm-bg ttm-bgcolor-skincolor clearfix">
@@ -656,331 +625,122 @@
         <!-- fid-section end -->
 
 
-        <section class="ttm-row testimonial-section bg-img2 ttm-bg ttm-bgimage-yes ttm-bgcolor-darkgrey">
-            <div class="ttm-row-wrapper-bg-layer ttm-bg-layer"></div>
-            <div class="container">
-                <!-- row -->
-                <div class="row">
-                    <div class="col-lg-2"></div>
-                    <div class="col-lg-8 col-md-12">
-                        <!-- section-title -->
-                        <div class="section-title text-center mb-40 clearfix">
-                            <div class="title-header">
-                                <h5>HAPPY CLIENTS</h5>
-                                <h2 class="title">What Our Patients Are Saying</h2>
-                            </div>
-                        </div><!-- section-title end -->
-                    </div>
-                    <div class="col-lg-2"></div>
-                </div><!-- row end -->
-                <div class="row">
-                    <div class="col-md-1"></div>
-                    <div class="col-md-10">
-                        <div class="defalut-view-testimonial">
-                            <!-- testimonial-slide -->
-                            <div class="testimonial-slide owl-carousel mb-30 res-991-mb-0" data-item="1" data-nav="true" data-dots="false" data-auto="false">
-                                <!-- testimonials -->
-                                <div class="testimonials"> 
-                                    <div class="testimonial-content">
-                                        <div class="testimonial-avatar">
-                                            <div class="testimonial-img">
-                                                <img class="img-center" src="images/testimonial/01.jpg" alt="testimonial-img">
-                                            </div>
-                                        </div>
-                                        <blockquote>Prior to my stay at Delmont, I was aware of their stellar reputation and multiple friends commented about how lucky I was to have my surgery scheduled there. As a result my expectations were high and yet the kind and professional staff with excellent patient care surpassed them.</blockquote>
-                                        <div class="star-ratings">
-                                            <ul class="rating">
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                            </ul>
-                                        </div>
-                                        <div class="testimonial-caption">
-                                            <h5>RAshley Foster</h5>
-                                            <label>Patient</label>
-                                        </div>
-                                    </div>
-                                </div><!-- testimonials end -->
-                                <!-- testimonials -->
-                                <div class="testimonials"> 
-                                    <div class="testimonial-content">
-                                        <div class="testimonial-avatar">
-                                            <div class="testimonial-img">
-                                                <img class="img-center" src="images/testimonial/02.jpg" alt="testimonial-img">
-                                            </div>
-                                        </div>
-                                        <blockquote>Great co workers, really good environment and excellent patient care. They are continuously innovating themselves which is why they remain a premier dental clinic.This was the cleanest medical establishment I've ever been in. They just loved the welcoming and warm atmosphere in there.</blockquote>
-                                        <div class="star-ratings">
-                                            <ul class="rating">
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                            </ul>
-                                        </div>
-                                        <div class="testimonial-caption">
-                                            <h5>Alan Sears</h5>
-                                            <label>Patient</label>
-                                        </div>
-                                    </div>
-                                </div><!-- testimonials end -->
-                                <!-- testimonials -->
-                                <div class="testimonials">
-                                    <div class="testimonial-content">
-                                        <div class="testimonial-avatar">
-                                            <div class="testimonial-img">
-                                                <img class="img-center" src="images/testimonial/03.jpg" alt="testimonial-img">
-                                            </div>
-                                        </div>
-                                        <blockquote>The doctors and nurses and aides were excellent. The food was excellent. I am feeling fine and very lucky, back to my old self again and it feels great. Thank God for clinics such as yours. I appreciate all your kindness and good care you gave me is beyond my expectations they wonder for me.</blockquote>
-                                        <div class="star-ratings">
-                                            <ul class="rating">
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                            </ul>
-                                        </div>
-                                        <div class="testimonial-caption">
-                                            <h5>Raymon Myers</h5>
-                                            <label>Patient</label>
-                                        </div>
-                                    </div>
-                                </div><!-- testimonials end -->
-                            </div><!-- testimonial-slide end-->
-                        </div>
-                    </div>
-                    <div class="col-md-1"></div>
-                </div><!-- row end-->
-            </div>
-        </section>
         <!-- testimonial-section end-->
 
-        <!-- multi-section -->
-        <section class="ttm-row multi-section break-991-colum bg-img3 clearfix">
-            <div class="container">
-                <div class="row mt_190 res-1199-mlr-15 res-991-mt-50 box-shadow2 no-gutters">
-                    <div class="col-md-5">
-                        <!-- col-bg-img-three -->
-                        <div class="col-bg-img-three ttm-bg ttm-col-bgimage-yes">
-                            <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
-                            <div class="layer-content">
-                            </div>
-                        </div><!-- col-bg-img-three end -->
-                        <img src="images/bg-image/col-bgimage-3.jpg" class="ttm-equal-height-image" alt="bg-image">
-                    </div>
-                    <div class="col-md-7">
-                        <div class="spacing-4 ttm-bgcolor-white">
-                            <!-- section title -->
-                            <div class="section-title style2 text-center clearfix">
-                                <div class="title-header">
-                                    <h2 class="title">Make an Appointment</h2>
-                                </div>
-                                <div class="title-desc">Contact us any suitable way and make an appointment with the doctor whose help you need! Visit us at the scheduled time.</div>
-                            </div><!-- section title end -->
-                            <form id="ttm-make-appoint-form" class="ttm-make-appoint-form wrap-form clearfix" method="post" action="#">
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <label>
-                                            <span class="text-input">
-                                                <i class="ttm-textcolor-skincolor ti-user"></i>
-                                                <input name="name" type="text" value="" placeholder="Full Name" required="required">
-                                            </span>
-                                        </label>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <label>
-                                            <span class="text-input">
-                                                <i class="ttm-textcolor-skincolor ti-email"></i>
-                                                <input name="address" type="text" value="" placeholder="Email Address" required="required">
-                                            </span>
-                                        </label>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <label>
-                                            <span class="text-input">
-                                                <i class="ttm-textcolor-skincolor ti-mobile"></i>
-                                                <input name="phone" type="text" value="" placeholder="Phone Number" required="required">
-                                            </span>
-                                        </label>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <label>
-                                            <span class="text-input">
-                                                <i class="ttm-textcolor-skincolor ti-heart-broken"></i>
-                                                <select><option value="">Select Department</option>
-                                                        <option value="">Orthopadic</option>
-                                                        <option value="">General</option>
-                                                </select>
-                                            </span>
-                                        </label>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <label>
-                                            <span class="text-input">
-                                                <i class="ttm-textcolor-skincolor ti-calendar"></i>
-                                                <input name="phone" type="text" value="" placeholder="Appointment Date" required="required">
-                                            </span>
-                                        </label>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <label>
-                                            <span class="text-input">
-                                                <i class="ttm-textcolor-skincolor ti-timer"></i>
-                                                <input name="phone" type="text" value="" placeholder="Appointment Time" required="required">
-                                            </span>
-                                        </label>
-                                    </div>
-                                </div>
-                                <input name="submit" type="submit" id="submit" class="submit" value="GET A FREE QUOTE">
-                            </form>
-                        </div>
-                    </div>
-                </div><!-- row end -->
-                <!-- row -->
-                <div class="row pt-90 res-991-pt-50">
-                    <div class="col-lg-9 col-md-12">
-                        <!-- section-title -->
-                        <div class="section-title style2 clearfix">
-                            <div class="title-header">
-                                <h5>OUR BLOG</h5>
-                                <h2 class="title">Recent Articles and News</h2>
-                            </div>
-                            <div class="title-desc">Since its founding Delmont has been providing its patients with the full medical care, encompassing outpatients services, is neurology, laboratory, imaging diagnostics and more.</div>
-                        </div><!-- section-title end -->
-                    </div>
-                    <div class="col-lg-3 col-md-12"></div>
-                </div><!-- row end -->
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="sep_holder_box width-100 mb-35">
-                            <span class="sep_holder"><span class="sep_line"></span></span>
-                            <span class="sep_holder"><span class="sep_line"></span></span>
-                        </div>
-                    </div>
-                </div>
-                <!-- row -->
-                <div class="row">
-                    <!-- post-slide -->
-                    <div class="post-slide owl-carousel owl-theme owl-loaded" data-item="2" data-nav="true" data-dots="false" data-auto="false">
-                        <!-- featured-imagebox-post -->
-                        <div class="featured-imagebox featured-imagebox-post ttm-box-view-left-image row box-shadow">
-                            <div class="col-lg-5 col-md-12 ttm-featured-img-left">
-                                <div class="ttm-post-thumbnail featured-thumbnail"> 
-                                    <img class="img-fluid" src="images/portfolio/post-one-768x800.jpg" alt="image"> 
-                                    <div class="ttm-box-post-date">
-                                        <span class="ttm-entry-date">
-                                            <time class="entry-date" datetime="2019-01-16T07:07:55+00:00">16<span class="entry-month">Jan<span class="entry-year">2019</span></span></time>
-                                        </span>
-                                    </div>
-                                </div> 
-                            </div>
-                            <div class="col-lg-7 col-md-12 featured-content featured-content-post">
-                                <div class="post-title featured-title">
-                                    <h5><a href="single-blog.html">How much aspirin to take for stroke</a></h5>
-                                </div>
-                                <div class="post-meta">
-                                    <span class="ttm-meta-line comments-link"><i class="fa fa-comment"></i> 3 Comments</span>
-                                    <span class="ttm-meta-line byline"><i class="fa fa-user"></i> Alex</span>
-                                </div>
-                                <div class="post-desc featured-desc">
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's...</p>
-                                </div>
-                            </div>
-                        </div><!-- featured-imagebox-post end-->
-                        <!-- featured-imagebox-post -->
-                        <div class="featured-imagebox featured-imagebox-post ttm-box-view-left-image row box-shadow">
-                            <div class="col-lg-5 col-md-12 ttm-featured-img-left">
-                                <div class="ttm-post-thumbnail featured-thumbnail"> 
-                                    <img class="img-fluid" src="images/portfolio/post-two-768x800.jpg" alt="image"> 
-                                    <div class="ttm-box-post-date">
-                                        <span class="ttm-entry-date">
-                                            <time class="entry-date" datetime="2019-01-16T07:07:55+00:00">20<span class="entry-month">Jan<span class="entry-year">2019</span></span></time>
-                                        </span>
-                                    </div>
-                                </div> 
-                            </div>
-                            <div class="col-lg-7 col-md-12 featured-content featured-content-post">
-                                <div class="post-title featured-title">
-                                    <h5><a href="single-blog.html">Implant Surgical equipment technology</a></h5>
-                                </div>
-                                <div class="post-meta">
-                                    <span class="ttm-meta-line comments-link"><i class="fa fa-comment"></i> 3 Comments</span>
-                                    <span class="ttm-meta-line byline"><i class="fa fa-user"></i> Alex</span>
-                                </div>
-                                <div class="post-desc featured-desc">
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's...</p>
-                                </div>
-                            </div>
-                        </div><!-- featured-imagebox-post end-->
-                        <!-- featured-imagebox-post -->
-                        <div class="featured-imagebox featured-imagebox-post ttm-box-view-left-image row box-shadow">
-                            <div class="col-lg-5 col-md-12 ttm-featured-img-left">
-                                <div class="ttm-post-thumbnail featured-thumbnail"> 
-                                    <img class="img-fluid" src="images/portfolio/post-three-768x800.jpg" alt="image">
-                                    <div class="ttm-box-post-date">
-                                        <span class="ttm-entry-date">
-                                            <time class="entry-date" datetime="2019-01-16T07:07:55+00:00">28<span class="entry-month">Jan<span class="entry-year">2019</span></span></time>
-                                        </span>
-                                    </div> 
-                                </div> 
-                            </div>
-                            <div class="col-lg-7 col-md-12 featured-content featured-content-post">
-                                <div class="post-title featured-title">
-                                    <h5><a href="single-blog.html">The Benefits of Middle-Age Fitness</a></h5>
-                                </div>
-                                <div class="post-meta">
-                                    <span class="ttm-meta-line comments-link"><i class="fa fa-comment"></i> 3 Comments</span>
-                                    <span class="ttm-meta-line byline"><i class="fa fa-user"></i> Alex</span>
-                                </div>
-                                <div class="post-desc featured-desc">
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's...</p>
-                                </div>
-                            </div>
-                        </div><!-- featured-imagebox-post end-->
-                        <!-- featured-imagebox-post -->
-                        <div class="featured-imagebox featured-imagebox-post ttm-box-view-left-image row box-shadow">
-                            <div class="col-lg-5 col-md-12 ttm-featured-img-left">
-                                <div class="ttm-post-thumbnail featured-thumbnail"> 
-                                    <img class="img-fluid" src="images/portfolio/post-four-768x800.jpg" alt="image"> 
-                                    <div class="ttm-box-post-date">
-                                        <span class="ttm-entry-date">
-                                            <time class="entry-date" datetime="2019-01-16T07:07:55+00:00">20<span class="entry-month">Jan<span class="entry-year">2019</span></span></time>
-                                        </span>
-                                    </div>
-                                </div> 
-                            </div>
-                            <div class="col-lg-7 col-md-12 featured-content featured-content-post">
-                                <div class="post-title featured-title">
-                                    <h5><a href="single-blog.html">Good Reasons to Break the Fast-Food Habit</a></h5>
-                                </div>
-                                <div class="post-meta">
-                                    <span class="ttm-meta-line comments-link"><i class="fa fa-comment"></i> 3 Comments</span>
-                                    <span class="ttm-meta-line byline"><i class="fa fa-user"></i> Alex</span>
-                                </div>
-                                <div class="post-desc featured-desc">
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's...</p>
-                                </div>
-                            </div>
-                        </div><!-- featured-imagebox-post end-->
-                    </div>
-                </div><!-- row end-->
-            </div>
-        </section>
-        <!-- multi-section end -->
 
     </div><!--site-main end-->
 
 
-   
+       <!--team-section-->
+       <section class="ttm-row team-section clearfix">
+             <div class="container">
+                <!-- row -->
+                <div class="row">
+                    <div class="col-lg-10 col-md-10">
+                        <!-- section-title -->
+                        <div class="section-title with-desc clearfix">
+                            <div class="title-header">
+                                <h5>MEET OUR EXPERIENCED TEAM</h5>
+                                <h2 class="title">Our Dedicated Doctors Team</h2>
+                            </div>
+                            <div class="title-desc">We offer extensive medical procedures to outbound and inbound patients what it is and we are very proud of achievement of our staff, We are all work together to help our all patients for recovery</div>
+                        </div><!-- section-title end -->
+                    </div>
+                    <div class="col-lg-2 col-md-2"></div>
+                </div><!-- row end -->
+                <!-- row -->
+                <div class="row">
+                    <div class="wrap-team team-slide owl-carousel" data-item="4" data-nav="true" data-dots="false" data-auto="false">
+                        <!-- featured-imagebox-team -->
+                        <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
+                            <div class="featured-thumbnail">
+                                <img class="img-fluid" src="<?php echo base_url().'images/team-member/team-img01.jpg';?>" alt="image"> 
+                            </div> 
+                            <div class="ttm-box-view-overlay">
+                                <div class="featured-iconbox ttm-media-link">
+                                    <a class="ttm_prettyphoto ttm_image" data-gal="prettyPhoto[gallery1]" title="spring-renovation" href="images/portfolio/05.jpg" data-rel="prettyPhoto"><i class="ti ti-plus"></i></a>
+                                </div>
+                            </div>
+                            <div class="featured-content featured-content-team">
+                                <div class="ttm-team-position">Senior Dr. at Delmont</div>
+                                <div class="featured-title">
+                                    <h5><a href="team-details.html">Dr. Metthew Wood</a></h5>
+                                </div>
+                            </div>
+                        </div><!-- featured-imagebox-team end-->
+                        <!-- featured-imagebox-team -->
+                        <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
+                            <div class="featured-thumbnail">
+                                <img class="img-fluid" src="<?php echo base_url().'images/team-member/team-img02.jpg';?>" alt="image">
+                            </div> 
+                            <div class="ttm-box-view-overlay">
+                                <div class="featured-iconbox ttm-media-link">
+                                    <a class="ttm_prettyphoto ttm_image" data-gal="prettyPhoto[gallery1]" title="spring-renovation" href="images/portfolio/05.jpg" data-rel="prettyPhoto"><i class="ti ti-plus"></i></a>
+                                </div>
+                            </div>
+                            <div class="featured-content featured-content-team">
+                                <div class="ttm-team-position">Cardiologist Specialist</div>
+                                <div class="featured-title">
+                                    <h5><a href="team-details.html">Dr. Roy Coleman</a></h5>
+                                </div>
+                            </div>
+                        </div><!-- featured-imagebox-team end-->
+                        <!-- featured-imagebox-team -->
+                        <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
+                            <div class="featured-thumbnail">
+                                <img class="img-fluid" src="<?php echo base_url().'images/team-member/team-img03.jpg';?>" alt="image"> 
+                            </div>
+                            <div class="ttm-box-view-overlay">
+                                <div class="featured-iconbox ttm-media-link">
+                                    <a class="ttm_prettyphoto ttm_image" data-gal="prettyPhoto[gallery1]" title="spring-renovation" href="images/portfolio/05.jpg" data-rel="prettyPhoto"><i class="ti ti-plus"></i></a>
+                                </div>
+                            </div> 
+                            <div class="featured-content featured-content-team">
+                                <div class="ttm-team-position">Neurology Specialist</div>
+                                <div class="featured-title">
+                                    <h5><a href="team-details.html">Dr. Andrew Bert</a></h5>
+                                </div>
+                            </div>
+                        </div><!-- featured-imagebox-team end-->
+                        <!-- featured-imagebox-team -->
+                        <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
+                            <div class="featured-thumbnail">
+                                <img class="img-fluid" src="<?php echo base_url().'images/team-member/team-img04.jpg';?>" alt="image"> 
+                            </div>
+                            <div class="ttm-box-view-overlay">
+                                <div class="featured-iconbox ttm-media-link">
+                                    <a class="ttm_prettyphoto ttm_image" data-gal="prettyPhoto[gallery1]" title="spring-renovation" href="images/portfolio/05.jpg" data-rel="prettyPhoto"><i class="ti ti-plus"></i></a>
+                                </div>
+                            </div>
+                            <div class="featured-content featured-content-team">
+                                <div class="ttm-team-position">Senior Рathologist</div>
+                                <div class="featured-title">
+                                    <h5><a href="team-details.html">Dr. Teresa Mayer</a></h5>
+                                </div>
+                            </div>
+                        </div><!-- featured-imagebox-team end-->
+                        <!-- featured-imagebox-team -->
+                        <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
+                            <div class="featured-thumbnail">
+                                <img class="img-fluid" src="<?php echo base_url().'images/team-member/team-img05.jpg';?>" alt="image"> 
+                            </div>
+                            <div class="ttm-box-view-overlay">
+                                <div class="featured-iconbox ttm-media-link">
+                                    <a class="ttm_prettyphoto ttm_image" data-gal="prettyPhoto[gallery1]" title="spring-renovation" href="images/portfolio/05.jpg" data-rel="prettyPhoto"><i class="ti ti-plus"></i></a>
+                                </div>
+                            </div>
+                            <div class="featured-content featured-content-team">
+                                <div class="ttm-team-position">Senior Dr. at Delmont</div>
+                                <div class="featured-title">
+                                    <h5><a href="team-details.html">Dr. Robert Burton</a></h5>
+                                </div>
+                            </div>
+                        </div><!-- featured-imagebox-team end-->
+                    </div>
+                </div><!-- row end -->
+            </div>
+        </section>
+        <!--team-section end-->
 
 <?php include('includes/footer.php'); ?>
 

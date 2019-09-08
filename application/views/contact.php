@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<?php include('includes/secondheader.php');?>
-=======
 <?php $page = 'contact'; include('includes/secondheader.php');?>
->>>>>>> added the active class functionality and new logo
 
 <!-- page-title -->
 <div class="ttm-page-title-row">
