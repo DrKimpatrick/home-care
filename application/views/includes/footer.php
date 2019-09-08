@@ -112,14 +112,14 @@
                     <div class="widget widget_nav_menu menu-footer-services-menu clearfix">
                         <h3 class="widget-title">Our Services</h3>
                         <ul id="menu-footer-services-menu" class="menu">
-                            <li><a href="#">Surgery</a></li>
-                            <li><a href="#">Psychological</a></li>
-                            <li><a href="#">Cardiology</a></li>
-                            <li><a href="#">Orthopedics</a></li>
-                            <li><a href="#">Pediatric</a></li>
-                            <li><a href="#">Oncology</a></li>
-                            <li><a href="#">Anesthesiology</a></li>
-                            <li><a href="#">Dermatology</a></li>
+                            <li><a href="#">Pharmacy</a></li>
+                            <li><a href="#">Social works</a></li>
+                            <li><a href="#">Counselling</a></li>
+                            <li><a href="#">Nutrition</a></li>
+                            <li><a href="#">M&E</a></li>
+                            <li><a href="#">Nursing</a></li>
+                            <li><a href="#">Medical</a></li>
+                            <li><a href="#">Laboratory</a></li>
                         </ul>
                     </div>
                 </div>
@@ -170,6 +170,23 @@
     <script src="<?php echo base_url().'js/main.js';?>"></script>
 
     <!-- Javascript end-->
+    <script>
+        function myFunction() {
+        var dots = document.getElementById("dots");
+        var moreText = document.getElementById("more");
+        var btnText = document.getElementById("myBtn");
+
+        if (dots.style.display === "none") {
+            dots.style.display = "inline";
+            btnText.innerHTML = "Read more"; 
+            moreText.style.display = "none";
+        } else {
+            dots.style.display = "none";
+            btnText.innerHTML = "Read less"; 
+            moreText.style.display = "inline";
+        }
+        }
+    </script>
 
 </body>
 </html>

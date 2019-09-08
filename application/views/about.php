@@ -56,9 +56,28 @@
                                     <div class="section-title with-desc clearfix">
                                         <div class="title-header">
                                             <h5>WHAT WE DO</h5>
-                                            <h2 class="title">We Have 25 Years Experience</h2>
+                                            <h2 class="title">We Have <?php echo date("Y") - 1987; ?> Years Experience</h2>
                                         </div>
-                                        <div class="title-desc">We offer extensive medical procedures to outbound and inbound patients what it is and we are very proud of achievement of our stpatients for recovery</div>
+                                        <div class="title-desc">
+                                        Nsambya Home Care (NHC) is a department of St. Francis Hospital Nsambya. That was established by Sr. Miriam Duggan in June 1987 
+                                        to primarily decongest the hospital clinics of HIV patients. The main beneficiaries are the poor women and children living with 
+                                        HIV, their families and the communities in central districts of; Kampala, Mukono, Wakiso and Mpigi. With HIV prevalence of 8.5% 
+                                        among adults of population of 4,000,000 people. NHC’s overall objective is; to provide with love holistic Home-Based Care quality 
+                                        services to HIV/AIDS infected and affected persons that delight them, their families and communities.
+                                        <span id="dots">...</span><span id="more" style="display: none"
+                                        >
+                                        Through its holistic HIV services delivery facility-based and Home-Based services, and support with various community linkages; over 
+                                        14,600 patients and their families have been served since inception. NHC has a total of 6,931 (460 adolescents) patients on anti-retroviral
+                                         drugs. The total number of adolescents includes those not yet eligible for ARVs is 580. NHC provides these adolescents with free medical care 
+                                         including ARVs, nutrition support during clinic visits, educational support in form fees for primary education and apprenticeship training, 
+                                         entrepreneurship skills training and startup capital for their families.
+
+                                        NHC created an adolescent clinic that runs on Fridays; it runs a monthly Adolescent voice Newsletter that has contributed experience sharing. 
+                                        Human resource capacity built; 45 youth, 17 couples and 20 adolescents trained as trainers of trainees and staff in programming. NHC initiated 
+                                        the “expert patients” model 10 years ago with 50 Community Volunteers who compliment health service delivery at NHC. The organization has addressed 
+                                        behavior change beyond AB for the youth and couples; over 2,000 youth and over 834 couples have been trained using the Value of Life and Faithful 
+                                        House curriculum respectively.</span></div>
+                                        <button style="background-color: #033B4A" onclick="myFunction()" id="myBtn">Read more</button>
                                     </div><!-- section title end -->
                                     <!-- acadion -->
                                     <div class="accordion">
@@ -96,6 +115,7 @@
                                                 </div>
                                             </div>
                                         </div><!-- toggle end -->
+                                        
                                     </div><!-- acadion end-->
                                 </div>
                             </div>
@@ -105,6 +125,107 @@
             </div>
         </section>
         <!-- experiance-section end -->
+
+         <!--quality-services-section-->
+         <div class="ttm-row quality-services-section ttm-bgcolor-grey clearfix">
+            <div class="container">
+                <!-- row -->
+                <div class="row">
+                    <div class="col-lg-2"></div>
+                    <div class="col-lg-8 col-md-12">
+                        <!-- section-title -->
+                        <div class="section-title with-desc text-center clearfix">
+                            <div class="title-header">
+                                <h3 class="title"><span style="color: #01D6A3">OUR </span>CORE VALUES</h3>
+                            </div>
+                        </div><!-- section-title end -->
+                    </div>
+                    <div class="col-lg-2"></div>
+                </div><!-- row end -->
+                <div class="row">
+                    <div class="col-md-4 mb-15 d-flex align-items-stretch">
+                        <!--featured-imagebox-->
+                        <div class="featured-imagebox ttm-box-view-top-image box-shadow res-991-mb-30">
+                            <div class="featured-content featured-content-bottom">
+                                <div class="featured-title">
+                                    <h5 style="color: #01D6A3">Professionalism</h5>
+                                </div>
+                                <div class="featured-desc">
+                                    <p>The board members, management and staff shall adhere to their various professional standards being skilled, positive and non- judgmental when performing their duties with integrity</p>
+                                </div>
+                            </div>
+                        </div><!-- featured-imagebox end-->
+                    </div>
+                    <div class="col-md-4 mb-15 d-flex align-items-stretch">
+                        <!--featured-imagebox-->
+                        <div class="featured-imagebox ttm-box-view-top-image box-shadow res-991-mb-30">
+                            <div class="featured-content featured-content-bottom">
+                                <div class="featured-title">
+                                    <h5 style="color: #01D6A3">Accountability</h5>
+                                </div>
+                                <div class="featured-desc">
+                                    <p>Observing collective as well as individual responsibility while executing the activities of the organization shall always be considered a priority.</p>
+                                </div>
+                            </div>
+                        </div><!-- featured-imagebox end-->
+                    </div>
+                    <div class="col-md-4 mb-15 d-flex align-items-stretch">
+                        <!--featured-imagebox-->
+                        <div class="featured-imagebox ttm-box-view-top-image box-shadow res-991-mb-30">
+                            <div class="featured-content featured-content-bottom">
+                                <div class="featured-title">
+                                    <h5 style="color: #01D6A3">Transparency</h5>
+                                </div>
+                                <div class="featured-desc">
+                                    <p>The board members, management and staff shall at all times express clarity and be open, clear in their work and exhibit high moral standards and highest level of transparency.</p>
+                                </div>
+                            </div>
+                        </div><!-- featured-imagebox end-->
+                    </div>
+                    <div class="col-md-4 mb-15 d-flex align-items-stretch">
+                        <!--featured-imagebox-->
+                        <div class="featured-imagebox ttm-box-view-top-image box-shadow res-991-mb-30">
+                            <div class="featured-content featured-content-bottom">
+                                <div class="featured-title">
+                                    <h5 style="color: #01D6A3">Hope</h5>
+                                </div>
+                                <div class="featured-desc">
+                                    <p>NHC shall always provide unwavering care to ensure or prolong life of PLHIV. NHC shall always encourage PLHIV to act responsibly & adapt to the health seeking behavior while adhering to whatever treatment that has been provided.</p>
+                                </div>
+                            </div>
+                        </div><!-- featured-imagebox end-->
+                    </div>
+                    <div class="col-md-4 mb-15 d-flex align-items-stretch">
+                        <!--featured-imagebox-->
+                        <div class="featured-imagebox ttm-box-view-top-image box-shadow res-991-mb-30">
+                            <div class="featured-content featured-content-bottom">
+                                <div class="featured-title">
+                                    <h5 style="color: #01D6A3">Sustainability</h5>
+                                </div>
+                                <div class="featured-desc">
+                                    <p>NHC shall focus on being an organization that its contribution and efforts are also going to benefit the future generation in other words doing today’s work the way that makes tomorrow better.</p>
+                                </div>
+                            </div>
+                        </div><!-- featured-imagebox end-->
+                    </div>
+                    <div class="col-md-4 mb-15 d-flex align-items-stretch">
+                        <!--featured-imagebox-->
+                        <div class="featured-imagebox ttm-box-view-top-image box-shadow res-991-mb-30">
+                            <div class="featured-content featured-content-bottom">
+                                <div class="featured-title">
+                                    <h5 style="color: #01D6A3">Teamwork</h5>
+                                </div>
+                                <div class="featured-desc">
+                                    <p>NHC board members,management and staff shall always cherish team developments and shall always do everything possible to promote inter and intra-functional collaboration and shall recognize successful team efforts.</p>
+                                </div>
+                            </div>
+                        </div><!-- featured-imagebox end-->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--quality-services-section end-->     
+
 
         <!-- fid-section -->
         <section class="ttm-row fid-section ttm-bg ttm-bgcolor-skincolor clearfix">
@@ -469,4 +590,10 @@
 
     </div><!--site-main end-->
 
+<<<<<<< HEAD
 <?php include('includes/footer.php');?>
+=======
+    
+    <?php include('includes/footer.php');?>
+    
+>>>>>>> add values section

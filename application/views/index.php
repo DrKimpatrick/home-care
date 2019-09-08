@@ -735,12 +735,68 @@
                                     <h5><a href="team-details.html">Dr. Robert Burton</a></h5>
                                 </div>
                             </div>
-                        </div><!-- featured-imagebox-team end-->
+                        </div><!-- testimonials end -->
+                    </div><!-- wrap-testimonial end-->
+                </div>
+            </div>
+        </div>
+    </div><!-- row end-->
+</div>
+</section>
+<!-- testimonial-section end-->
+
+    <!--clientbox-section-->
+    <div class="ttm-row clientbox-section ttm-bgcolor-grey mt_70 res-991-mt-0 clearfix">
+            <div class="container">
+                <!-- row -->
+                <div class="row text-center">
+                    <div class="col-md-12">
+                        <!-- ttm-client -->
+                        <div class="ttm-client clients-slide owl-carousel owl-theme owl-loaded mt-5" data-item="5" data-nav="false" data-dots="false" data-auto="false">
+                            <div class="client-box ttm-box-view-logo">
+                                <div class="ttm-client-logo-tooltip" data-tooltip="Infectious Diseases Institute">
+                                    <div class="client-thumbnail">
+                                        <a href="http://www.ucmb.co.ug/" target="_blank"><img src="<?php echo  base_url().'images/partners/Africalogo1.jpg';?>" alt="image"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="client-box ttm-box-view-logo">
+                                <div class="ttm-client-logo-tooltip" data-tooltip="Uganda Catholic Medical Bureau">
+                                    <div class="client-thumbnail">
+                                    <a href="http://www.ucmb.co.ug/" target="_blank"><img src="<?php echo  base_url().'images/partners/LogoUCMB1.jpg';?>" alt="image"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="client-box ttm-box-view-logo">
+                                <div class="ttm-client-logo-tooltip" data-tooltip="Infectious Diseases Institute">
+                                    <div class="client-thumbnail">
+                                        <a href="http://www.ucmb.co.ug/" target="_blank"><img src="<?php echo  base_url().'images/partners/Africalogo1.jpg';?>" alt="image"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="client-box ttm-box-view-logo">
+                                <div class="ttm-client-logo-tooltip" data-tooltip="Uganda Catholic Medical Bureau">
+                                    <div class="client-thumbnail">
+                                    <a href="http://www.ucmb.co.ug/" target="_blank"><img src="<?php echo  base_url().'images/partners/LogoUCMB1.jpg';?>" alt="image"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="client-box ttm-box-view-logo">
+                                <div class="ttm-client-logo-tooltip" data-tooltip="Uganda Catholic Medical Bureau">
+                                    <div class="client-thumbnail">
+                                    <a href="http://www.ucmb.co.ug/" target="_blank"><img src="<?php echo  base_url().'images/partners/LogoUCMB1.jpg';?>" alt="image"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                        </div><!-- ttm-client end -->      
                     </div>
                 </div><!-- row end -->
             </div>
-        </section>
-        <!--team-section end-->
+        </div>
+        <!--clientbox-section end-->
+
+    </div><!--site-main end-->
 
 <?php include('includes/footer.php'); ?>
 
