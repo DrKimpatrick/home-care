@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <?php include('includes/secondheader.php');?>
+=======
+<?php $page = 'contact'; include('includes/secondheader.php');?>
+>>>>>>> added the active class functionality and new logo
 
 <!-- page-title -->
 <div class="ttm-page-title-row">
@@ -152,7 +156,9 @@
 <!-- intro-section end -->
 
 <div class="map-wrapper">
-    <div id="map_canvas"></div>
+<div id="map" style="height: 400px;width:100%;margin:0 !important;border-top:5px solid #f1f1f1;"></div><div class="free-5"></div>
+
+    <!-- <div id="map_canvas"></div> -->
 </div>
 
 
@@ -160,13 +166,42 @@
 
 <?php include('includes/footer.php');?>
 
-<script src="https://maps.google.com/maps/api/js?sensor=false"></script>
-    <script>
+
+<script>
+    function initMap() {
+    var latd = "0.30219";
+    var lngd = "32.586993";
+    var uluru = {lat: parseFloat(latd), lng: parseFloat(lngd)};
+    // var branch = {lat: parseFloat(0.3130104), lng: parseFloat(32.5825868)};
+    var map = new google.maps.Map(document.getElementById('map'), {
+        zoom: 15,
+        center: uluru
+    });
+    var marker = new google.maps.Marker({
+        position: uluru,
+        map: map,
+        title: "Head Office"
+    });
+
+
+
+
+    // var marker2 = new google.maps.Marker({
+    //     position: branch,
+    //     map: map,
+    //     title: "Branch Office"
+    // });
+
+
+    }
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBFgjxRJx-1cMLcCoCNA9knJiI1VTc4PBQ&callback=initMap"></script>
+    <!-- <script>
 
         function initialize() {
-            var latlng = new google.maps.LatLng(-34.397, 150.644);
+            var latlng = new google.maps.LatLng(0.3009029, 32.5847743);
             var myOptions = {
-                zoom: 8,
+                zoom: 15,
                 center: latlng,
                 mapTypeId: google.maps.MapTypeId.ROADMAP
             };
@@ -175,4 +210,4 @@
         }
         google.maps.event.addDomListener(window, "load", initialize);
 
-    </script>
+    </script> -->

@@ -67,7 +67,13 @@
 
         <!--header start-->
         <header id="masthead" class="header ttm-header-style-overlay">
+<<<<<<< HEAD
             
+=======
+            <!-- ttm-fbar-main-w -->
+           <!-- ttm-fbar-main-w end -->
+            <!-- ttm-header-wrap -->
+>>>>>>> added the active class functionality and new logo
             <div class="ttm-header-wrap">
                 <!-- ttm-stickable-header-w -->
                 <div id="ttm-stickable-header-w" class="ttm-stickable-header-w clearfix">
@@ -77,7 +83,7 @@
                                 <!-- site-branding -->
                                 <div class="site-branding">
                                     <a class="home-link" href="index.html" title="Delmont" rel="home">
-                                        <img id="logo-img" class="img-center" src="images/logo-white.png" alt="logo-img">
+                                        <img id="logo-img" class="img-center" src="<?php echo base_url().'images/nhc2.png';?> " style="max-height: 70px !important;" alt="logo-img">
                                     </a>
                                 </div><!-- site-branding end -->
                                 <!--site-navigation -->
@@ -104,12 +110,18 @@
                                     </div>
                                     <nav id="menu" class="menu">
                                         <ul class="dropdown">
+<<<<<<< HEAD
                                            <li class="active"><a href="<?php echo base_url().'Nsambya';?>">Home</a></li>
                                             <li><a href="<?php echo base_url().'Nsambya/About';?>">About Us</a></li>
                                             <li><a href="<?php echo base_url().'Nsambya/Contact';?>">Contact Us</a></li>
 <<<<<<< HEAD
                                             <li><a href="<?php echo base_url().'Nsambya/Services';?>">Services</a></li>
 =======
+=======
+                                           <li class="<?php if($page == 'home'){echo 'active';} ?>"><a href="<?php echo base_url().'Nsambya';?>">Home</a></li>
+                                            <li class="<?php if($page == 'about'){echo 'active';} ?>"><a href="<?php echo base_url().'Nsambya/About';?>">About Us</a></li>
+                                            <li class="<?php if($page == 'contact'){echo 'active';} ?>"><a href="<?php echo base_url().'Nsambya/Contact';?>">Contact Us</a></li>
+>>>>>>> added the active class functionality and new logo
                                          
                                            <li><a href="#">Services</a>
                                                 <ul>

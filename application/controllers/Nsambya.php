@@ -3,10 +3,17 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Nsambya extends MY_Controller 
 {
+	
+
 
 	public function Index()
 	{	
-		$this->load->view('index.php');	
+		$data = array(
+			'title' => 'My Title',
+			'heading' => 'My Heading',
+			'message' => 'My Message'
+		);
+		$this->load->view('index.php', $data);	
 	}
 
 	public function About(){

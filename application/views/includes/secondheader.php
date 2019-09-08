@@ -102,7 +102,7 @@
                                 <!-- site-branding -->
                                 <div class="site-branding">
                                     <a class="home-link" href="index.html" title="Delmont" rel="home">
-                                        <img id="logo-img" class="img-center" src="<?php echo base_url().'images/logo-img.png';?>" alt="logo-img">
+                                        <img id="logo-img" class="img-center" src="<?php echo base_url().'images/nhc4.png';?>" style="max-height: 70px !important;" alt="logo-img">
                                     </a>
                                 </div><!-- site-branding end -->
                                 <!--site-navigation -->
@@ -118,11 +118,40 @@
                                     </div>
                                     <nav id="menu" class="menu">
                                         <ul class="dropdown">
-
-                                           <li class="active"><a href="<?php echo base_url().'Nsambya';?>">Home</a></li>
-                                            <li><a href="<?php echo base_url().'Nsambya/About';?>">About Us</a></li>
-                                            <li><a href="<?php echo base_url().'Nsambya/Contact';?>">Contact Us</a></li>
-                                            <li><a href="<?php echo base_url().'Nsambya/Services';?>">Services</a></li>
+                                           <li class="<?php if($page == 'home'){ echo 'active';} ?>"><a href="<?php echo base_url().'Nsambya';?>">Home</a></li>
+                                            <li class="<?php  if($page == 'about'){echo 'active';} ?>"><a href="<?php echo base_url().'Nsambya/About';?>">About Us</a></li>
+                                            <li class="<?php if($page == 'contact'){echo 'active';} ?>"><a href="<?php echo base_url().'Nsambya/Contact';?>">Contact Us</a></li>
+                                            <li><a href="#">Research</a>
+                                                <ul>
+                                                    <li><a href="research-style-1.html">Research Style 1</a></li>
+                                                    <li><a href="research-style-2.html">Research Style 2</a></li>
+                                                    <li><a href="#">Project Single</a>
+                                                       <ul>
+                                                            <li><a href="single-style-1.html">Style One</a></li>
+                                                            <li><a href="single-style-2.html">Style Two</a></li>
+                                                            <li><a href="single-style-3.html">Style Three</a></li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                           <li><a href="#">Services</a>
+                                                <ul>
+                                                    <li><a href="neurology-services.html">Neurology Services</a></li>
+                                                    <li><a href="cardiology-services.html">Cardiology Services</a></li>
+                                                    <li><a href="x-ray-rmi-services.html">X-Ray & RMI Services</a></li>
+                                                    <li><a href="eye-care-services.html">Eye Care Services</a></li>
+                                                    <li><a href="dental-services.html">Dental Services</a></li>
+                                                    <li><a href="orthopaedics-services.html">Orthopaedics Services</a></li>
+                                                </ul>
+                                            </li>
+                                            <li><a href="#">Blog</a>
+                                                <ul>
+                                                    <li><a href="blog.html">Blog Classic</a></li>
+                                                    <li><a href="blog-left-image.html">Blog Left Image</a></li>
+                                                    <li><a href="blog-grid-view.html">Blog Grid View</a></li>
+                                                    <li><a href="single-blog.html">Blog Single View</a></li>
+                                                </ul>
+                                            </li>
                                         </ul>
                                     </nav>
                                 </div><!-- site-navigation end-->
