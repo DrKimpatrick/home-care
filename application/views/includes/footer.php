@@ -59,10 +59,10 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-6 col-lg-5 widget-area">
                     <div class="widget widget_text clearfix">
-                        <h3 class="widget-title">About Delmont</h3>
+                        <h3 class="widget-title">About Nsambya Home Care</h3>
                         <div class="textwidget widget-text">
-                            Our Clinic has grown to provide a world class facility for the clinic advanced restorative dentistry.
-                            <br><br>We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience.
+                            Our Clinic has grown to provide a world class facility for the clinic advanced home care services.
+                            <br><br>We are among the most qualified implant providers in the AUS with over 32 years of quality training and experience.
                             <br><br>
                             <div class="social-icons social-hover">
                                 <ul class="list-inline">

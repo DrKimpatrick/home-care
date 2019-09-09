@@ -8,7 +8,7 @@
                 <div class="title-box ttm-textcolor-white">
                     <div class="page-title-heading">
                         <h1 class="title">Contact Us</h1>
-                        <h3 class="subtitle"> Book a Complimentary Appointment by Visiting or calling Us!</h3>
+                        <h3 class="subtitle"> SEND IN YOUR MESSAGE OR CALL AT ANY TIME!</h3>
                     </div><!-- /.page-title-captions -->
                     <div class="breadcrumb-wrapper">
                         <div class="container">
@@ -38,7 +38,7 @@
                 <div class="ttm-col-bgcolor-yes ttm-bg ttm-bgcolor-skincolor ttm-textcolor-white spacing-8">
                     <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
                     <div class="layer-content">
-                        <h3>Do You want to Reach at the next Level of business Success?</h3>
+                        <h3>Do You want to get high quality specialized home care services?</h3>
                         <p>Book a Complimentary Appointment by Visiting or calling Us!</p>
                         <div class="sep_holder_box width-100 pt-20 mb-35">
                             <span class="sep_holder"><span class="sep_line"></span></span>

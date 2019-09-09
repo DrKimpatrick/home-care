@@ -122,16 +122,7 @@
                                             <li class="<?php  if($page == 'about'){echo 'active';} ?>"><a href="<?php echo base_url().'Nsambya/About';?>">About Us</a></li>
                                             <li class="<?php if($page == 'contact'){echo 'active';} ?>"><a href="<?php echo base_url().'Nsambya/Contact';?>">Contact Us</a></li>
                                          
-                                           <li><a href="#">Services</a>
-                                                <ul>
-                                                    <li><a href="neurology-services.html">Neurology Services</a></li>
-                                                    <li><a href="cardiology-services.html">Cardiology Services</a></li>
-                                                    <li><a href="x-ray-rmi-services.html">X-Ray & RMI Services</a></li>
-                                                    <li><a href="eye-care-services.html">Eye Care Services</a></li>
-                                                    <li><a href="dental-services.html">Dental Services</a></li>
-                                                    <li><a href="orthopaedics-services.html">Orthopaedics Services</a></li>
-                                                </ul>
-                                            </li>
+                                            <li class="<?php if($page == 'services'){echo 'active';} ?>"><a href="<?php echo base_url().'Nsambya/Services';?>">Services</a></li>
                                         </ul>
                                     </nav>
                                 </div><!-- site-navigation end-->
@@ -151,8 +142,8 @@
                                         <i class="fa fa-hospital-o"></i>
                                     </div>
                                     <div class="header-content">
-                                        <h3>Number 1 Hospital</h3>
-                                        <p>In United States</p>
+                                        <h3>Number 1 Home care</h3>
+                                        <p>In Uganda</p>
                                     </div>
                                 </div>
                                 <div class="header-widget">
@@ -160,7 +151,7 @@
                                         <i class="fa fa-user-md"></i>
                                     </div>
                                     <div class="header-content">
-                                        <h3>Personal Cabinet</h3>
+                                        <h3>High quality services</h3>
                                         <p>Qualified Staff</p>
                                     </div>
                                 </div>
@@ -169,8 +160,8 @@
                                         <i class="fa fa-thumbs-o-up"></i>
                                     </div>
                                     <div class="header-content">
-                                        <h3>Get Result Online</h3>
-                                        <p>Satisfied Patients</p>
+                                        <h3>Send us feedback</h3>
+                                        <p>See satisfied patients</p>
                                     </div>
                                 </div>
                             </div>

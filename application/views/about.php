@@ -589,11 +589,6 @@
 
 
     </div><!--site-main end-->
-
-<<<<<<< HEAD
-<?php include('includes/footer.php');?>
-=======
     
     <?php include('includes/footer.php');?>
     
->>>>>>> add values section
