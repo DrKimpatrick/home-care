@@ -1,0 +1,27 @@
+[09-Jul-2017 06:36:34 America/New_York] PHP Fatal error:  Cannot redeclare word_teaser() (previously declared in /home/itvafrica/public_html/application/views/includes/adminheader.php:2) in /home/itvafrica/public_html/application/views/includes/adminheader.php on line 12
+[09-Jul-2017 07:06:37 America/New_York] PHP Fatal error:  Cannot redeclare word_teaser() (previously declared in /home/itvafrica/public_html/application/views/includes/adminheader.php:2) in /home/itvafrica/public_html/application/views/includes/adminheader.php on line 12
+[13-Jul-2017 11:06:07 America/New_York] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/itvafrica/public_html/application/models/Admins.php on line 190
+[13-Jul-2017 11:06:21 America/New_York] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/itvafrica/public_html/application/models/Admins.php on line 190
+[13-Jul-2017 12:00:19 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/itvafrica/public_html/application/views/index.php on line 190
+[13-Jul-2017 12:00:40 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/itvafrica/public_html/application/views/index.php on line 190
+[15-Jul-2017 03:38:33 America/New_York] PHP Fatal error:  Cannot redeclare word_teaser() (previously declared in /home/itvafrica/public_html/application/views/includes/adminheader.php:2) in /home/itvafrica/public_html/application/views/includes/adminheader.php on line 12
+[15-Jul-2017 03:39:04 America/New_York] PHP Fatal error:  Cannot redeclare word_teaser() (previously declared in /home/itvafrica/public_html/application/views/includes/adminheader.php:2) in /home/itvafrica/public_html/application/views/includes/adminheader.php on line 12
+[15-Jul-2017 03:41:04 America/New_York] PHP Fatal error:  Call to undefined function word_teaser() in /home/itvafrica/public_html/application/views/AArticles.php on line 62
+[15-Jul-2017 03:42:44 America/New_York] PHP Fatal error:  Cannot redeclare word_teaser() (previously declared in /home/itvafrica/public_html/application/views/includes/adminheader.php:3) in /home/itvafrica/public_html/application/views/includes/adminheader.php on line 23
+[15-Jul-2017 03:47:04 America/New_York] PHP Fatal error:  Cannot redeclare word_teaser() (previously declared in /home/itvafrica/public_html/application/views/includes/adminheader.php:3) in /home/itvafrica/public_html/application/views/includes/adminheader.php on line 23
+[15-Jul-2017 03:51:52 America/New_York] PHP Fatal error:  Cannot redeclare word_teasers() (previously declared in /home/itvafrica/public_html/application/views/includes/adminheader.php:3) in /home/itvafrica/public_html/application/views/includes/adminheader.php on line 23
+[15-Jul-2017 03:54:19 America/New_York] PHP Fatal error:  Cannot redeclare word_teaser() (previously declared in /home/itvafrica/public_html/application/views/includes/adminheader.php:3) in /home/itvafrica/public_html/application/views/includes/adminheader.php on line 23
+[15-Jul-2017 04:06:50 America/New_York] PHP Fatal error:  Call to undefined function word_teaser() in /home/itvafrica/public_html/application/views/ANews.php on line 214
+[15-Jul-2017 04:17:48 America/New_York] PHP Fatal error:  Call to undefined function word_teaser() in /home/itvafrica/public_html/application/views/ANews.php on line 214
+[15-Jul-2017 04:18:17 America/New_York] PHP Fatal error:  Call to undefined function word_teaser() in /home/itvafrica/public_html/application/views/ANews.php on line 214
+[15-Jul-2017 04:22:08 America/New_York] PHP Fatal error:  Call to undefined function word_teaser() in /home/itvafrica/public_html/application/views/ANews.php on line 304
+[15-Jul-2017 04:26:00 America/New_York] PHP Fatal error:  Call to undefined function word_teaser() in /home/itvafrica/public_html/application/views/ANews.php on line 219
+[15-Jul-2017 04:26:57 America/New_York] PHP Parse error:  syntax error, unexpected '$new' (T_VARIABLE), expecting ',' or ';' in /home/itvafrica/public_html/application/views/ANews.php on line 218
+[15-Jul-2017 04:28:01 America/New_York] PHP Fatal error:  Call to undefined function word_teaser() in /home/itvafrica/public_html/application/views/ANews.php on line 303
+[15-Jul-2017 04:29:20 America/New_York] PHP Fatal error:  Call to undefined function word_teaser() in /home/itvafrica/public_html/application/views/ANews.php on line 307
+[15-Jul-2017 04:30:16 America/New_York] PHP Fatal error:  Call to undefined function word_teaser() in /home/itvafrica/public_html/application/views/ANews.php on line 231
+[15-Jul-2017 04:30:54 America/New_York] PHP Fatal error:  Call to undefined function word_teaser() in /home/itvafrica/public_html/application/views/ANews.php on line 231
+[15-Jul-2017 04:32:11 America/New_York] PHP Fatal error:  Call to undefined function word_teaser() in /home/itvafrica/public_html/application/views/ANews.php on line 303
+[15-Jul-2017 04:32:14 America/New_York] PHP Fatal error:  Call to undefined function word_teaser() in /home/itvafrica/public_html/application/views/ANews.php on line 303
+[15-Jul-2017 04:35:15 America/New_York] PHP Fatal error:  Call to undefined function word_teaser() in /home/itvafrica/public_html/application/views/ANews.php on line 107
+[17-Jul-2017 02:04:43 America/New_York] PHP Parse error:  syntax error, unexpected '...' (T_ELLIPSIS), expecting ',' or ';' in /home/itvafrica/public_html/application/views/index.php on line 134
