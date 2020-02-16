@@ -7,7 +7,7 @@
                 <div class="col-md-12"> 
                     <div class="title-box ttm-textcolor-white">
                         <div class="page-title-heading">
-                            <h1 class="title">Dr. Metthew Wood</h1>
+                            <h1 class="title pt-3"><?php echo $name; ?></h1>
                         </div><!-- /.page-title-captions -->
                         <div class="breadcrumb-wrapper">
                             <div class="container">

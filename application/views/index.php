@@ -601,7 +601,7 @@
                             <div class="featured-content featured-content-team">
                                 <div class="ttm-team-position">Cardiologist Specialist</div>
                                 <div class="featured-title">
-                                    <h5><a href="team-details.html">Dr. Roy Coleman</a></h5>
+                                    <h5><a href="<?php echo base_url().'Nsambya/Profile/2';?>">Dr. Roy Coleman</a></h5>
                                 </div>
                             </div>
                         </div><!-- featured-imagebox-team end-->

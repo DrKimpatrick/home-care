@@ -4,16 +4,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 class Nsambya extends MY_Controller 
 {
 	
-
-
+	
 	public function Index()
 	{	
-		$data = array(
-			'title' => 'My Title',
-			'heading' => 'My Heading',
-			'message' => 'My Message'
-		);
-		$this->load->view('index.php', $data);	
+	
+		$this->load->view('index.php');	
 	}
 
 	public function About(){
@@ -30,8 +25,47 @@ class Nsambya extends MY_Controller
 	public function Team(){
 		$this->load->view('team.php');
 	}	
-	public function Profile(){
-		$this->load->view('profile.php');
+	public function Profile($id=1){
+		$userData = '[
+			{
+				"_id": 1,
+				"name": "kimanje patrick",
+				"title": "title",
+				"image": "path",
+				"phone": "+256736536353",
+				"email": "email@gmail.com",
+				"address": "address",
+				"overview": "overview",
+				"facebook": "",
+				"twitter": "",
+				"instagram":""
+			},
+			{
+				"_id": 1,
+				"name": "solo patrick",
+				"title": "title",
+				"image": "path",
+				"phone": "+256736536353",
+				"email": "email@gmail.com",
+				"address": "address",
+				"overview": "overview",
+				"facebook": "",
+				"twitter": "",
+				"instagram":""
+			}
+		]';
+		
+		
+		$cleanarray =json_decode($userData);
+		if(is_string($id) || is_numeric(id)== false){
+			$id = 1;
+		}
+		if($id > 4){
+			$id = 1;
+		}
+		$profdata = $cleanarray[$id-1];
+	
+		$this->load->view('profile.php', $profdata);
 	}
 	public function Services(){
 		$this->load->view('services.php');
