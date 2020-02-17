@@ -336,7 +336,7 @@
                         <!-- featured-imagebox-team -->
                         <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
                             <div class="featured-thumbnail">
-                                <img class="img-fluid" src="<?php echo base_url().'images/team-member/team-img01.jpg';?>" alt="image"> 
+                                <img class="img-fluid" src="<?php echo base_url().'images/team-member/team-details-img01.jpg';?>" alt="image"> 
                             </div> 
                             <div class="ttm-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
@@ -344,16 +344,16 @@
                                 </div>
                             </div>
                             <div class="featured-content featured-content-team">
-                                <div class="ttm-team-position">Senior Dr. at Delmont</div>
+                                <div class="ttm-team-position">HEAD OF COUNSELING SECTION</div>
                                 <div class="featured-title">
-                                    <h5><a href="team-details.html">Dr. Metthew Wood</a></h5>
+                                <h5><a href="<?php echo base_url().'Nsambya/Profile/1';?>">Mr. Francis Ssozi</a></h5>
                                 </div>
                             </div>
                         </div><!-- featured-imagebox-team end-->
                         <!-- featured-imagebox-team -->
                         <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
                             <div class="featured-thumbnail">
-                                <img class="img-fluid" src="<?php echo base_url().'images/team-member/team-img02.jpg';?>" alt="image">
+                                <img class="img-fluid" src="<?php echo base_url().'images/team-member/team-details-img01.jpg';?>" alt="image">
                             </div> 
                             <div class="ttm-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
@@ -361,16 +361,16 @@
                                 </div>
                             </div>
                             <div class="featured-content featured-content-team">
-                                <div class="ttm-team-position">Cardiologist Specialist</div>
+                                <div class="ttm-team-position">Head of Medical Sections</div>
                                 <div class="featured-title">
-                                    <h5><a href="team-details.html">Dr. Roy Coleman</a></h5>
+                                    <h5><a href="<?php echo base_url().'Nsambya/Profile/2';?>">Dr.Justine Kizito</a></h5>
                                 </div>
                             </div>
                         </div><!-- featured-imagebox-team end-->
                         <!-- featured-imagebox-team -->
                         <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
                             <div class="featured-thumbnail">
-                                <img class="img-fluid" src="<?php echo base_url().'images/team-member/team-img03.jpg';?>" alt="image"> 
+                                <img class="img-fluid" src="<?php echo base_url().'images/team-member/team-details-img01.jpg';?>" alt="image"> 
                             </div>
                             <div class="ttm-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
@@ -378,16 +378,16 @@
                                 </div>
                             </div> 
                             <div class="featured-content featured-content-team">
-                                <div class="ttm-team-position">Neurology Specialist</div>
+                                <div class="ttm-team-position">PHARMACY AND DISPENSING OF DRUGS AND SUPPLIES</div>
                                 <div class="featured-title">
-                                    <h5><a href="team-details.html">Dr. Andrew Bert</a></h5>
+                                <h5><a href="<?php echo base_url().'Nsambya/Profile/3';?>">Mr. Gilbert Ayebare</a></h5>
                                 </div>
                             </div>
                         </div><!-- featured-imagebox-team end-->
                         <!-- featured-imagebox-team -->
                         <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
                             <div class="featured-thumbnail">
-                                <img class="img-fluid" src="<?php echo base_url().'images/team-member/team-img04.jpg';?>" alt="image"> 
+                                <img class="img-fluid" src="<?php echo base_url().'images/team-member/team-details-img01.jpg';?>" alt="image"> 
                             </div>
                             <div class="ttm-box-view-overlay">
                                 <div class="featured-iconbox ttm-media-link">
@@ -395,31 +395,14 @@
                                 </div>
                             </div>
                             <div class="featured-content featured-content-team">
-                                <div class="ttm-team-position">Senior Рathologist</div>
+                                <div class="ttm-team-position">THE HEAD OF SOCIAL WORKS</div>
                                 <div class="featured-title">
-                                    <h5><a href="team-details.html">Dr. Teresa Mayer</a></h5>
+                                <h5><a href="<?php echo base_url().'Nsambya/Profile/4';?>">Ms.Resty Ingabire</a></h5>
                                 </div>
                             </div>
                         </div><!-- featured-imagebox-team end-->
-                        <!-- featured-imagebox-team -->
-                        <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
-                            <div class="featured-thumbnail">
-                                <img class="img-fluid" src="<?php echo base_url().'images/team-member/team-img05.jpg';?>" alt="image"> 
-                            </div>
-                            <div class="ttm-box-view-overlay">
-                                <div class="featured-iconbox ttm-media-link">
-                                    <a class="ttm_prettyphoto ttm_image" data-gal="prettyPhoto[gallery1]" title="spring-renovation" href="images/portfolio/05.jpg" data-rel="prettyPhoto"><i class="ti ti-plus"></i></a>
-                                </div>
-                            </div>
-                            <div class="featured-content featured-content-team">
-                                <div class="ttm-team-position">Senior Dr. at Delmont</div>
-                                <div class="featured-title">
-                                    <h5><a href="team-details.html">Dr. Robert Burton</a></h5>
-                                </div>
-                            </div>
-                        </div><!-- featured-imagebox-team end-->
-                    </div>
-                </div><!-- row end -->
+                    </div><!-- wrap-testimonial end-->
+                </div>
             </div>
         </section>
         <!--team-section end-->
